@@ -1,0 +1,7 @@
+---
+title: Inicio
+website:
+  reader-mode: true
+---
+# HOLA
+asdasd

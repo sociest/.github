@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Sociedad Científica de Estudiantes de Estadística"
+  site-url: https://sociest.org
+
+  announcement: 
+    content: "**New** - website using quarto!" 
+    position: below-navbar 
+
+  repo-url: https://github.com/sociest/sociest.github.io
+  repo-actions: [edit, source, issue]
+  
+  back-to-top-navigation: true
+  
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+    tools:
+      - icon: github
+        href: https://github.com/sociest/
+      - icon: whatsapp
+        href: https://whatsapp.com/channel/0029VaoHzI69xVJcZxVuiv05
+      - icon: linkedin
+        href: https://www.linkedin.com/company/sociest
+  page-footer: 
+    left: "Copyright 2024, Sociedad Científica de Estudiantes de Estadística" 
+    right: 
+      - icon: github
+        href: https://github.com/sociest/
+      - icon: whatsapp
+        href: https://whatsapp.com/channel/0029VaoHzI69xVJcZxVuiv05
+      - icon: linkedin
+        href: https://www.linkedin.com/company/sociest
+  
+format:
+  html:
+    language: es
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
