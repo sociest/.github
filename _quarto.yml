@@ -5,9 +5,24 @@ project:
 website:
   title: "Sociedad Científica de Estudiantes de Estadística"
   site-url: https://sociest.org
+  description: ""
+
+  comments:
+    giscus: 
+      repo: sociest/sociest.github.io
+      category: Q&A
+      mapping: title
+      reactions-enabled: true
+      theme:
+        light: light
+        dark: dark_dimmed
+      language: es
 
   announcement: 
-    content: "**New** - website using quarto!" 
+    icon: info-circle
+    dismissable: true
+    content: "**Info** - Bienvenido a la nueva pagina web de la sociedad!"
+    type: primary
     position: below-navbar 
 
   repo-url: https://github.com/sociest/sociest.github.io
@@ -19,6 +34,15 @@ website:
     left:
       - href: index.qmd
         text: Inicio
+      - href: blog.qmd
+        text: Blog
+      - href: docs.qmd
+        text: Documentación
+      - href: about.qmd
+        text: Sobre Nosotros
+    right:
+      - icon: rss
+        href: index.xml
     tools:
       - icon: github
         href: https://github.com/sociest/
@@ -26,6 +50,9 @@ website:
         href: https://whatsapp.com/channel/0029VaoHzI69xVJcZxVuiv05
       - icon: linkedin
         href: https://www.linkedin.com/company/sociest
+      - icon: facebook
+        href: https://www.facebook.com/profile.php?id=61566085296817
+      
   page-footer: 
     left: "Copyright 2024, Sociedad Científica de Estudiantes de Estadística" 
     right: 
@@ -35,10 +62,13 @@ website:
         href: https://whatsapp.com/channel/0029VaoHzI69xVJcZxVuiv05
       - icon: linkedin
         href: https://www.linkedin.com/company/sociest
+      - icon: facebook
+        href: https://www.facebook.com/profile.php?id=61566085296817
   
 format:
   html:
     language: es
+    css: styles.css
     theme:
       light: cosmo
       dark: darkly

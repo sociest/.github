@@ -1,0 +1,359 @@
+---
+title: ESTATUTO ORGÁNICO DE LA SOCIEDAD CIENTÍFICA DE ESTUDIANTES DE ESTADÍSTICA
+authors:
+  - name: Comité Fundador
+    affiliation: Sociedad Cientifica de Estudiantes de Estadística
+    roles: writing
+    corresponding: true
+repo-actions: none
+comments: false
+reader-mode: true
+---
+
+# PREÁMBULO
+En la ciudad de La Paz, a los 3 días del mes de Octubre de 2024, se reunieron los estudiantes de pregrado de la carrera de Estadística de la Facultad de Ciencias Puras y Naturales de la Universidad Mayor de San Andrés, con el fin de constituir la Sociedad Científica de Estudiantes de Estadística de acuerdo con el Reglamento General de las Sociedades Científicas de Estudiantes y las normativas vigentes del Sistema Universitario Boliviano.
+
+# Misión
+Fomentar el desarrollo y la difusión del conocimiento estadístico mediante la investigación científica, la colaboración académica y la aplicación práctica, contribuyendo al avance de la ciencia y la tecnología en beneficio de la Universidad Mayor de San Andrés y la sociedad en su conjunto.
+
+# Visión
+Ser una sociedad científica líder en la promoción de la estadística como herramienta fundamental para el análisis y solución de problemas en diversas áreas del conocimiento, impulsando el desarrollo académico y profesional de sus miembros.
+
+# Capítulo I. DISPOSICIONES GENERALIDADES
+### Artículo 1. OBJETO
+El presente estatuto tiene por objeto normar el funcionamiento y organización de la Sociedad Científica de Estudiantes de Estadística
+
+### Artículo 2. RELACIÓN CON LA NORMATIVA VIGENTE
+El presente estatuto se regirá conforme a los principios, valores y normas establecidos en el Estatuto Orgánico de la Universidad Boliviana y el Estatuto Orgánico de la Universidad Mayor de San Andrés (UMSA) y Reglamento de las Sociedades Científicas de la Universidad Boliviana, entre otras normativas vigentes.
+
+### Artículo 3. RELACIÓN CON OTRAS ORGANIZACIONES Y LA UNIVERSIDAD
+La Sociedad actuará en coordinación con otras entidades académicas, evitando cualquier conflicto con el cogobierno de la Universidad Mayor de San Andrés y de la Universidad Boliviana y asegurando su autonomía en la dirección y administración.
+
+# Capítulo II. DE LA SOCIEDAD
+
+### Artículo 4. DENOMINACIÓN Y NATURALEZA
+La organización se denomina "Sociedad Científica de Estudiantes de Estadística", en adelante "la Sociedad", constituida como una organización académica sin fines de lucro y apartidista, con el objetivo de promover la investigación, el conocimiento científico, el desarrollo académico y profesional de sus miembros.
+
+### Artículo 5. SIGLA, EMBLEMA,LOGOTIPO Y COLORES
+La sigla que adopta la Sociedad será: SOCIEST. El emblema/s, logotipo/s y color/es serán determinados bajo resolución de la Asamblea General.
+
+### Artículo 6. PRINCIPIOS Y VALORES
+La Sociedad se regirá por los principios de independencia académica, ética profesional, y neutralidad política. Cualquier uso de la Sociedad con fines políticos partidarios está prohibido.
+
+### Artículo 7. DOMICILIO Y DURACIÓN
+La Sociedad estará ubicada en predios de la Carrera de Estadística de la Universidad Mayor de San Andrés en La Paz, Bolivia. y su duración es indefinida.
+
+## Sección I. OBJETIVOS
+
+### Artículo 8. OBJETIVO GENERAL
+Promover el avance del conocimiento estadístico mediante la investigación científica, la formación de recursos humanos y la divulgación activa, contribuyendo al desarrollo académico y social.
+
+### Artículo 9. OBJETIVOS ESPECÍFICOS
+La sociedad persigue los siguientes objetivos específicos:
+
+a. Desarrollar competencias para abordar la actividad científica en distintos contextos de la investigación.
+
+b. Impartir cursos y talleres sobre paradigmas científicos y técnicas de investigación.
+
+c. Fomentar la difusión de la producción científica mediante publicaciones y redes de información.
+
+d. Diseñar cursos relacionados con aspectos éticos, compromiso social y liderazgo en la investigación científica.
+
+e. Organizar y participar en congresos científicos estudiantiles para divulgar los resultados de investigación.
+
+f. Estimular actividades que fomenten la creatividad y la generación de conocimientos, promoviendo la innovación y el desarrollo económico y social de la región.
+
+# Capítulo III. ESTRUCTURA ORGANIZATIVA
+
+### Artículo 10. ÓRGANOS DE EJECUCIÓN
+La organización interna de la sociedad considerará las siguientes instancias de decisión Ejecutiva, Técnica y Administrativa:
+
+a. Asamblea General
+
+b. Consejo Ejecutivo y Directivo
+
+c. Comisiones
+
+d. Comités
+
+e. Tribunales
+
+f. Proyectos
+
+### Artículo 11. JERARQUÍA NORMATIVA
+La organización interna de la sociedad considerará la siguiente jerarquía normativa.
+
+a. Estatuto Orgánico
+
+b. Reglamento interno
+
+c. Resoluciones de la Asamblea
+
+d. Resoluciones de Consejo Ejecutivo y Directivo
+
+e. Tratados y Convenios con otras Organizaciones
+
+## Sección I. DE LAS ASAMBLEAS GENERALES
+
+### Artículo 12. NATURALEZA Y FINALIDAD
+Las Asambleas Generales son la máxima órgano de decisión y deliberación, creados con el fin de garantizar la democracia, igualdad y autonomía dentro de la sociedad.
+
+### Artículo 13. COMPOSICIÓN Y FORMAS
+Las Asambleas Generales son aquellas que reúnen a los miembros de la sociedad de forma obligatoria de las siguientes formas.
+
+a. De forma periódica denominada “Asamblea General Ordinaria”.
+
+b. De forma de emergencia denominada “Asamblea General Extraordinaria”.
+
+### Artículo 14. DE LA ASAMBLEA GENERAL ORDINARIA
+La Asamblea General Ordinaria son aquellas en las que se tiene fecha, hora y lugar establecidos, a partir de la 1era Reunión llevada a cabo a inicio de cada gestión. Debiendo realizarse un mínimo de una cada mes.
+
+### Artículo 15. DE LAS ASAMBLEA GENERAL EXTRAORDINARIA
+La Asamblea General Extraordinaria son aquellas convocadas con por lo menos 48 horas de anticipación.
+
+### Artículo 16. MODALIDADES DE DECISIÓN
+Las modalidades de decisión serán por.
+
+a. Consenso. Es la valoración por decisión unánime de los asistentes a la Asamblea General.
+
+b. Votación. Es la valoración por votación personal única e intransferible, pudiendo ser solicitada por 1 o más miembros activos.
+
+### Artículo 17. MODALIDADES DE LA VOTACIÓN
+Las modalidades de votación serán las siguientes.
+
+a. Voto Nominal. Consiste en una emisión de votos en público por asistente.
+
+b. Voto Secreto. Consiste en una emisión de votos de forma privada y secreta, pudiendo ser solicitada por 1 o más miembros.
+
+### Artículo 18. MÉTODOS DE VOTACIÓN
+Los métodos de votación serán los siguientes.
+
+a. Sistema binario. Consiste en la elección de una única opción cerrada, donde la opción que cumpla el quórum establecido gana la votación. Establecida para la aprobación de decisiones.
+
+b. Sistema por valoración. Consiste en la valoración de cada opción en escala del 1 al 10, donde la opción con la mayor puntuación promedio gana la votación. Establecida para la valoración y clasificación entre múltiples opciones.
+
+### Artículo 19. REQUERIMIENTOS DE QUÓRUM
+Los requerimientos de quórum serán los siguientes bajo orden de jerarquía.
+
+a. Mayoría reforzada. 2/3 de los miembros activos de la Sociedad. 
+
+b. Mayoría calificada. 4/7 de los miembros activos de la Sociedad.
+
+c. Mayoría absoluta. 50%+1 de los miembros activos de la Sociedad.
+
+d. Mayoría simple. 50%+1 de los asistentes de la Asamblea General.
+
+### Artículo 20. OMISIÓN DEL QUÓRUM
+De no existir quórum para la Asamblea General Ordinaria o Extraordinaria se procede a convocar nuevamente en los mismos plazos a Asamblea Ordinaria o Extraordinaria omitiendo el requerimiento de quórum.
+
+### Artículo 21. MODALIDADES DE LLAMADO
+Las Asambleas Generales podrán ser llamadas por el Presidente, Vicepresidente ó por 3 miembros del Consejo Ejecutivo y Directivo de la Sociedad por iniciativa o por reglamento, también podrán ser convocadas por petición de al menos 1/3 de los miembros activos de la Sociedad.
+
+### Artículo 22. DEL ORDEN DEL DIA
+El orden del día de la sociedad deberá ser definido con por lo menos 48 horas antes de la Asamblea General junto con toda la documentación pertinente para poder abordar todos los temas correctamente.
+
+### Artículo 23. DE LAS PROPUESTAS
+Las propuestas podrán ser presentadas por cualquiera de los miembros activos de la Sociedad, antes ó durante de una asamblea para poder ser tomadas en consideración, proceder a una deliberación y decisión para ser desarrollada por consenso ó por mayoría simple, en caso que se decida desarrollar esta conformará un proyecto para poder ser presentada en la siguiente asamblea.
+
+## Sección II. DEL CONSEJO EJECUTIVO Y DIRECTIVO
+### Artículo 24. NATURALEZA Y FINALIDAD
+Es el órgano encargado de cumplir y hacer cumplir el estatuto, reglamentos y resoluciones de la Asamblea General de la sociedad, sólo puede tomar decisiones operativas, pudiendo ser cuestionadas por la Asamblea.
+
+### Artículo 25. CONFORMACIÓN 
+El Consejo Ejecutivo y Directivo de la sociedad estará conformado por los siguientes.
+
+a. Cargos representativos.
+
+b. Coordinadores de las comisiones.
+
+c. Encargados de los comités, si fuera necesario.
+
+
+### Artículo 26. CARGOS DEL CONSEJO EJECUTIVO Y DIRECTIVO
+El Consejo Ejecutivo y Directivo de la sociedad tendrá los siguientes cargos representativos en ese orden de jerarquía:
+
+a. Presidente/a
+
+b. Vicepresidente/a
+
+c. Secretario/a de actas y comunicación
+
+d. Secretario/a financiera
+
+e. Secretario/a de prensa y publicidad
+
+### Artículo 27. DURACIÓN DE CARGOS
+La duración de los cargos del Consejo Ejecutivo y Directivo será de un año, pudiendo ser reelecto una sola vez de manera continua o discontinua en el mismo cargo, no incluye cargos provisionales.
+
+### Artículo 28. ELECCIÓN DE CARGOS
+La elección de los miembros activos para los cargos del Consejo Ejecutivo y Directivo se llevará a cabo anualmente un mes antes de la conclusión de la mesa directiva saliente o cuando se vea necesario. Organizado por un Tribunal Electoral convocado por la Asamblea General. La elección será votación por valoración con voto secreto.
+
+### Artículo 29. DESTITUCIÓN DE CARGOS
+La destitución de cargo podrá ser llevada por las siguientes formas.
+
+a. Por petición de la Asamblea General podrá proponer el tema de la destitución de un cargo de resolución inmediata siendo necesario mayoría calificada en la asamblea en curso.
+
+b. Por imposibilidad de ejercer el cargo u inactividad por 3 meses.
+
+### Artículo 30. RENUNCIA DE CARGOS
+En la renuncia o destitución de cargos se reemplazará por el inmediato siguiente conforme a la jerarquía establecida en el Consejo Ejecutivo y Directivo, en caso de no haber, se recurre a los miembros con mayor antigüedad entrando como cargos provisionales encargados de presidir la Asamblea General Extraordinaria para la elección de nuevos cargos, en un plazo no mayor a 3 meses.
+
+### Artículo 31. FUNCIONES, ATRIBUCIONES Y REQUISITOS
+Las funciones, Atribuciones y Requisitos de cargos del Consejo Ejecutivo y Directivo de la sociedad se detallarán en el reglamento interno de la sociedad.
+
+## Sección III. DE LAS COMISIONES
+### Artículo 32. NATURALEZA Y FINALIDAD
+Las Comisiones son órganos operativos de la sociedad, creados con la finalidad de gestionar y ejecutar las actividades continuas en áreas clave como la investigación científica, la interacción social y la extensión universitaria. Cada comisión estará dirigida por un miembro designado por el Consejo Ejecutivo y Directivo, quien será responsable de coordinar las actividades de la comisión y reportar a la Asamblea General y al Consejo Ejecutivo y Directivo.
+
+### Artículo 33. COMPOSICIÓN DE LAS COMISIONES
+Las Comisiones estarán integradas por miembros voluntarios de la sociedad. Cada comisión deberá contar con un mínimo de tres miembros, incluyendo el coordinador designado por el Consejo Ejecutivo y Directivo. Las Comisiones podrán contar con el apoyo de comités de trabajo para la ejecución de tareas específicas.
+
+### Artículo 34. COORDINACIÓN DE LAS COMISIONES
+Las Comisiones trabajarán de manera autónoma en la ejecución de sus funciones, pero deberán coordinar con el Consejo Ejecutivo y Directivo para garantizar que sus actividades estén alineadas con los objetivos generales de la sociedad.
+Cada Comisión deberá presentar un informe semestral a la Asamblea General sobre sus actividades, logros y dificultades encontradas, así como un plan de acción para el siguiente periodo.
+
+## Sección IV. DE LOS COMITÉS
+### Artículo 35. NATURALEZA Y FINALIDAD
+Los Comités son grupos temporales o permanentes formados para la ejecución de tareas específicas dependientes de las Comisiones o Consejo Ejecutivo y Directivo. La finalidad de los Comités es realizar tareas operativas concretas, apoyando a sus dependientes en el cumplimiento de sus objetivos.
+
+### Artículo 36. COMPOSICIÓN DE LOS COMITÉS
+Cada Comité estará compuesto por miembros voluntarios de la sociedad y dirigido por un Coordinador designado por la dependencia responsable. Los Comités pueden ser creados y disueltos según las necesidades de la sociedad y los proyectos en curso.
+
+### Artículo 37. COORDINACIÓN DE LOS COMITÉS
+Los Comités deberán coordinar directamente con la Comisión a la que apoyan o en su defecto al Consejo Ejecutivo y Directivo. Sus actividades deberán estar en línea con las directrices establecidas por dicha Comisión y el Consejo Ejecutivo y Directivo.
+Los Comités deberán presentar informes periódicos sobre el progreso de sus tareas a la Comisión correspondiente.
+
+### Artículo 38. COMPOSICIÓN Y CARGOS
+Los Comités estarán compuestos por los miembros que deseen, contando este con un encargado designado por cada comité.
+
+## Sección V. DE LOS TRIBUNALES
+### Artículo 39. NATURALEZA Y FINALIDAD
+Los tribunales son instancias especiales de arbitraje y mediación, creados con el fin de garantizar la transparencia, imparcialidad y justicia en los procesos electorales, de admisión, en la resolución de conflictos u otros dentro de la sociedad.
+
+### Artículo 40. COMPOSICIÓN DE LOS TRIBUNALES
+
+a. Los tribunales estarán compuestos por un miembro elegido por la Asamblea General y tres jurados seleccionados aleatoriamente de entre los miembros activos de la sociedad.
+
+b. Los miembros del tribunal no podrán estar involucrados directa o indirectamente en el caso a tratar y deben aceptar su nombramiento de forma explícita.
+
+c. En caso de renuncia se vuelve a seleccionar aleatoriamente entre los miembros activos de la sociedad.
+
+### Artículo 41. COMPETENCIAS
+Los tribunales serán responsables de:
+
+a. Verificar, Recabar y Comprobar los requisitos de los postulantes u proyectos.
+
+b. Evaluar y resolver conflictos internos, tomando en cuenta las evidencias y testimonios disponibles para emitir un veredicto.
+
+c. Asumir cualquier otra función asignada por la Asamblea General.
+
+### Artículo 42. INDEPENDENCIA Y JURAMENTO
+Los tribunales actuarán con total independencia de la Mesa Directiva y el Consejo Ejecutivo y Directivo, garantizando imparcialidad en sus decisiones. Jurando su imparcialidad y veracidad del veredicto.
+
+### Artículo 43. OBLIGATORIEDAD DE LAS DECISIONES
+Las decisiones y veredictos emitidos por los tribunales serán vinculantes y de obligatorio cumplimiento por todas las partes involucradas. Solo pudiendo ser apeladas por la Asamblea General por mayoría absoluta convocando a un nuevo tribunal.
+
+
+## Sección VI. DE LOS PROYECTOS
+### Artículo 44. NATURALEZA Y FINALIDAD
+Los Proyectos son iniciativas temporales que tienen como objetivo desarrollar investigaciones, actividades de impacto social o eventos de extensión universitaria. Los proyectos pueden estar vinculados a una o más Comisiones.
+La finalidad de los Proyectos es aplicar el conocimiento estadístico en áreas específicas y contribuir al avance del conocimiento y la mejora social.
+
+### Artículo 45. INICIATIVA Y APROBACIÓN DE PROYECTOS
+Cualquier miembro de la sociedad puede proponer un Proyecto. La propuesta debe ser presentada por escrito al Consejo Ejecutivo y Directivo.
+El Consejo Ejecutivo y Directivo, en coordinación con la Comisión pertinente, evaluará la viabilidad del Proyecto y determinará si cumple con los objetivos y recursos disponibles de la sociedad.
+Una vez aprobado, el Proyecto será asignado a un Comité que se encargará de su ejecución.
+
+# Capítulo IV. DE LOS MIEMBROS
+### Artículo 46. DE LOS MIEMBROS
+Son reconocidos como miembros de la sociedad a todos los estudiantes universitarios que participen y formen parte de ésta conforme a los requisitos establecidos.
+
+### Artículo 47. CATEGORÍAS DE MIEMBROS
+La sociedad reconocerá las siguientes categorías de miembros:
+
+a. Miembros Activos:
+  i. Miembros Fundadores: Son todos aquellos que hayan participado y contribuido en la fundación de la Sociedad y han firmado en la acta de fundación de la sociedad.
+  
+  ii. Miembros Titulares: Todos los estudiantes universitarios que hayan sido admitidos y participan de forma activa dentro la Sociedad.
+
+b. Miembros Honorarios: Aquellas personas de reconocida trayectoria en trabajos de investigación científica y tecnológica; hayan realizado aportes tangibles e intelectuales.
+
+### Artículo 48. ANTIGÜEDAD DE LOS MIEMBROS
+La sociedad reconocerá la antigüedad de sus miembros para poder armar una jerarquía en caso de ser necesario. Este es el número de años que aporta a la sociedad.
+
+
+### Artículo 49. INCOMPATIBILIDADES DE LA MEMBRESÍA
+Son incompatibilidades de la membresía activa aquellos estudiantes que
+
+a. Hayan ocupado ó ocupen cargos de dirigentes estudiantiles FUL, CEFAC, Centro de Estudiantes, Parte del cogobierno universitario en cualquiera de sus instancias no pueden formar parte de la Sociedad.
+
+
+### Artículo 50. REQUISITOS PARA LA MEMBRESÍA
+Para ser admitido como miembro de la sociedad, se deberá:
+
+a. Estar inscrito en la Universidad Mayor de San Andrés y ser estudiante regular o estudiante egresado de como máximo 2 años de la carrera de Estadística.
+
+b. Llenar y adjuntar la documentación requerida según reglamento interno de la sociedad.
+
+### Artículo 51. DERECHOS DE LOS MIEMBROS
+Son derechos y atribuciones de los miembros en sus diferentes categorías.
+
+a. De los miembros:
+  
+    i. Recibir apoyo y colaboración para proyectos.
+  
+    ii. Participar en todas las actividades de la sociedad.
+b. De los miembros activos:
+  
+    i. Tener voz y voto en las asambleas generales.
+  
+    ii. Elegir y ser elegido conforme a los procedimientos establecidos.
+
+### Artículo 52. DEBERES Y OBLIGACIONES DE LOS MIEMBROS
+Son deberes y obligaciones de los miembros en sus diferentes categorías.
+
+a. De los miembros:
+  
+    i. Cumplir, respetar y hacer cumplir el estatuto, reglamentos y resoluciones de la Asamblea General y Consejo Directivo de la sociedad.
+  
+    ii. Respetar y cumplir con el código de ética y comportamiento.
+  
+    iii. Mantener la conservación de bienes materiales e inmateriales de la sociedad.
+
+b. De los miembros activos:
+  
+    i. Cumplir con los cargos y funciones asignadas.
+
+c. De los miembros titulares:
+  
+    i. Asistir a las Asambleas Generales.
+
+### Artículo 53. DE LAS SANCIONES
+La sociedad establece y reconoce las sanciones por el incumplimiento de los deberes y obligaciones establecidas en el reglamento interno. Se establece como sanción máxima la expulsión/veto permanente de la Sociedad.
+
+### Artículo 54. SANCIONES POLÍTICAS
+La sociedad establece la sanción máxima a toda injerencia del uso del nombre de la sociedad, de sus bienes tanto materiales, inmateriales e intelectuales de alguno de sus miembros con la política electoral del cogobierno universitario en todos sus niveles.
+
+# Capítulo V. PATRIMONIO Y FINANZAS
+
+### Artículo 55. FINANZAS Y RECURSOS
+
+a. Planificación y Presupuesto: Elaborar un presupuesto anual considerando gastos necesarios para actividades y posibles ingresos.
+
+b. Transparencia y Rendición de Cuentas: Mantener registros claros y presentar informes financieros periódicamente.
+
+c. Generación de Recursos Externos: Explorar oportunidades de financiamiento externo y buscar donaciones o colaboraciones.
+
+d. Recursos Materiales: Solicitar donaciones y utilizar los recursos materiales de manera responsable.
+
+e. Voluntariado y Colaboración: Fomentar el trabajo voluntario y la colaboración con otras organizaciones.
+
+f. Eventos y Actividades Financieras: Organizar eventos que generen ingresos y gestionar recursos para actividades.
+
+g. Subvenciones y Becas: Buscar subvenciones específicas y fomentar la aplicación a becas.
+
+
+# Capítulo VI. REFORMAS, MEDIAS TRANSITORIAS Y FINALES
+
+### Artículo 56. DE LA REFORMA O MODIFICACIÓN
+La modificación del estatuto orgánico y reglamentos de la sociedad se realizará mediante la convocatoria a una Asamblea General Ordinaria. Siendo necesario mayoría reforzada para modificación del estatuto orgánico, mayoría calificada para la modificación reglamento interno, mayoría absoluta para la derogación de resoluciones de la Asamblea General.
