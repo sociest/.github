@@ -15,7 +15,8 @@ website:
   image: "images/logo.jpg"
 
   google-analytics: "G-ZEYEY0RVXJ"
-
+  cookie-consent: true
+  
   comments:
     giscus: 
       repo: sociest/sociest
