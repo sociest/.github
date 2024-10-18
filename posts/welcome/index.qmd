@@ -1,12 +1,365 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2024-10-11"
-categories: [news]
+title: REGLAMENTO INTERNO DE LA SOCIEDAD CIENTÍFICA DE ESTUDIANTES DE ESTADÍSTICA
+author: "Sociedad Cientifica de Estudiantes de Estadística"
+date: "2024-10-03"
+repo-actions: none
+comments: false
+reader-mode: true
+categories: [normativa]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+**Referencia**
+[Enlace al documento en Google Drive](https://docs.google.com/document/d/1iIo1haOvpgyqdso7DjSQyaqU6VrsFJsRaQ6MS9ARO9U/edit?usp=sharing)
 
-![](thumbnail.jpg)
+# Capítulo I. DISPOSICIONES GENERALIDADES
+### Artículo 1. OBJETO
+Este reglamento tiene por objeto complementar las disposiciones del Estatuto Orgánico de Sociedad Científica de Estudiantes de Estadística, estableciendo normas y procedimientos detallados para el funcionamiento cotidiano de la sociedad.
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+### Artículo 2. APLICACIÓN
+Este reglamento es de cumplimiento obligatorio para todos los miembros de la sociedad. Cualquier incumplimiento será sancionado conforme a las disposiciones internas.
+
+### Artículo 3. INTERPRETACIÓN
+Cualquier conflicto de interpretación de este reglamento será resuelto por la Asamblea General, conforme a las disposiciones del Estatuto.
+
+# Capítulo II. ORGANIZACIÓN INTERNA
+
+### Artículo 4. ORGANIZACIÓN DE LAS REUNIONES
+
+a. Asambleas Generales Ordinarias: Se convocadas mensualmente con al menos una semana de anticipación.
+
+b. Asambleas Generales Extraordinarias: Se podrán convocar con al menos 48 horas de antelación, conforme a lo establecido en el estatuto.
+
+### Artículo 5. DOCUMENTACIÓN
+El Secretario de Actas y Comunicación será responsable de redactar las actas, que deberán ser aprobadas en la siguiente Asamblea. Las actas estarán disponibles para consulta de todos los miembros.
+
+### Artículo 6. ORDEN DEL DÍA
+El orden del día será elaborado por el Consejo Ejecutivo y Directivo y deberá ser comunicado a los miembros 48 horas antes de la Asamblea.
+
+### Artículo 7. FUNCIONES Y ATRIBUCIONES DE LOS CARGOS DEL CONSEJO EJECUTIVO Y DIRECTIVO
+
+a. Presidente: 
+
+    i. Funciones
+
+        1. Representa a la Sociedad.
+        2. Convoca y preside las Asambleas Generales.
+        3. Asegurar el cumplimiento del Estatuto y los reglamentos de la Sociedad.
+        4. Informar a la Asamblea General sobre las actividades y manejo de la Sociedad.
+        5. Recibir y delegar la correspondencia.
+        6. Actuar como enlace principal entre la Sociedad y otras organizaciones científicas o académicas.
+
+    ii. Atribuciones
+
+        1. Convocar asambleas extraordinarias cuando sea necesario.
+        2. Tomar decisiones urgentes en ausencia de asambleas.
+        3. Elaborar el orden del día para las reuniones.
+        4. Delegar funciones específicas a los demás miembros del Consejo Ejecutivo y Directivo
+
+    iii. Requisitos
+
+        1. Tener experiencia previa en gestión de proyectos o haber ocupado algún cargo en la Sociedad.
+        2. No haber sido sancionado por incumplimientos o faltas ni tener cargos pendientes de resolución dentro de la Sociedad.
+        3. Mantener un buen historial académico y conductual.
+
+b. Vicepresidente: 
+
+    i. Funciones
+
+        1. Apoyar al Presidente en la dirección y coordinación de las actividades de la Sociedad.
+        2. Asumir las funciones del Presidente en caso de ausencia temporal o definitiva.
+        3. Supervisar el cumplimiento de los acuerdos y decisiones tomadas por la Asamblea General.
+        4. Colaborar en la coordinación de las comisiones y comités para asegurar que sus actividades estén alineadas con los objetivos de la Sociedad.
+        5. Informar al Presidente y al Consejo Ejecutivo y Directivo sobre el progreso de los proyectos y actividades.
+
+    ii. Atribuciones
+
+        1. Tomar decisiones con consulta previa al Consejo Ejecutivo y Directivo. 
+        2. Proponer la creación de comisiones o comités para la ejecución de tareas específicas. 
+        3. Convocar asambleas en caso de negligencia del Presidente. 
+        4. Representar a la Sociedad en eventos cuando sea delegado por el Presidente.
+
+    iii. Requisitos
+
+        1. Haber liderado o participado activamente en algún proyecto de la Sociedad.
+        2. Mantener un buen historial académico y conductual.
+        3. No haber sido sancionado por incumplimientos o faltas.
+
+c. Secretario de Actas y Comunicación: 
+
+    i. Funciones
+
+        1. Redactar las actas de todas las reuniones de la Sociedad, garantizando su fidelidad y claridad.
+        2. Llevar un registro detallado de la asistencia en todas las reuniones y eventos.
+        3. Gestionar y organizar toda la documentación oficial de la Sociedad.
+        4. Informar a los miembros sobre las convocatorias y las decisiones tomadas en las Asambleas.
+        5. Mantener actualizados los archivos digitales y físicos de la Sociedad.
+        6. Presentar un informe bimensual sobre las actividades de la Sociedad y la documentación generada.
+
+    ii. Atribuciones
+
+        1. Supervisar el acceso a la documentación de la Sociedad y garantizar su preservación.
+        2. Recibir y gestionar la inscripción de nuevos miembros.
+        3. Coordinar la comunicación interna entre los miembros del Consejo Ejecutivo y Directivo y la Asamblea.
+        4. Ser responsable de la distribución de las actas y resoluciones a los miembros activos.
+
+    iii. Requisitos
+
+        1. Tener habilidades organizativas y experiencia en manejo de documentos y actas.
+        2. Contar con un buen rendimiento académico.
+        3. No haber sido sancionado por incumplimientos o faltas.
+
+d. Secretario Financiero: 
+
+    i. Funciones
+
+        1. Gestionar y controlar los recursos financieros de la Sociedad.
+        2. Elaborar y presentar informes financieros mensuales y semestrales sobre el uso de los fondos.
+        3. Establecer un presupuesto anual para la Sociedad, en coordinación con el Consejo Ejecutivo y Directivo.
+        4. Mantener actualizados los registros de ingresos y egresos de la Sociedad.
+        5. Supervisar la recaudación de fondos en eventos y actividades de la Sociedad.
+        6. Asegurar que todos los gastos de la Sociedad estén debidamente documentados y justificados.
+
+    ii. Atribuciones
+
+        1. Proponer mecanismos para la generación de ingresos adicionales.
+        2. Controlar los gastos y solicitar la aprobación del Consejo Ejecutivo y Directivo para realizar desembolsos.
+        3. Presentar propuestas de inversión y manejo de recursos ante la Asamblea General.
+        4. Supervisar la auditoría interna de los fondos de la Sociedad.
+
+    iii. Requisitos
+
+        1. Tener conocimientos básicos en gestión financiera, contabilidad o áreas afines.
+        2. Mantener un buen historial académico y de comportamiento.
+        3. No haber sido sancionado por incumplimientos o faltas.
+
+e. Secretario de Prensa y Publicidad: 
+
+    i. Funciones
+
+        1. Difundir las actividades de la Sociedad a través de medios de comunicación y redes sociales.
+        2. Promover los eventos organizados por la Sociedad entre la comunidad universitaria y externa.
+        3. Elaborar contenido publicitario y comunicacional para la Sociedad.
+        4. Coordinar con el Consejo Ejecutivo la estrategia de comunicación de la Sociedad.
+        5. Mantener actualizada la presencia digital de la Sociedad en plataformas de redes sociales, sitios web, etc.
+
+    ii. Atribuciones
+
+        1. Gestionar la imagen pública de la Sociedad.
+        2. Colaborar en la organización y difusión de conferencias, seminarios y eventos públicos.
+        3. Proponer campañas de visibilidad y promoción para las actividades de la Sociedad.
+        4. Representar a la Sociedad en medios de comunicación cuando sea necesario.
+
+    iii. Requisitos
+
+        1. Tener experiencia o habilidades en manejo de redes sociales, diseño gráfico, o comunicación.
+        2. Mantener un rendimiento académico y de comportamiento adecuado.
+        3. No haber sido sancionado por incumplimientos o faltas.
+
+# Capítulo III. COMISIONES Y COMITÉS
+
+### Artículo 8. FUNCIÓN DE LAS COMISIONES
+Las comisiones son órganos permanentes que ejecutan las actividades según su área de responsabilidad. Los coordinadores serán designados por el Consejo Ejecutivo y Directivo.
+
+### Artículo 9. CREACIÓN Y DISOLUCIÓN DE COMITÉS
+Los comités serán creados y disueltos por resolución de la Asamblea General según las necesidades de la sociedad. Estos pertenecerán a una comisión o dependen del Consejo Ejecutivo y Directivo
+
+# Capítulo IV. MIEMBROS
+
+### Artículo 10. DE LA ADMISIÓN
+Los interesados en ser miembros denominados “postulantes” deberán presentar su solicitud al Consejo Ejecutivo y Directivo junto con los documentos requeridos. La solicitud será evaluada en un plazo máximo de 15 días.
+
+### Artículo 11. DOCUMENTOS A PRESENTAR
+Los documentos requeridos que cada postulante debe presentar son los siguientes.
+
+a. Fotocopia de Matrícula Universitaria de estudiante o egresado de 2 años de la carrera de Estadística.
+
+b. Fotocopia de Carnet de Identidad vigente.
+
+c. Declaración Jurada de No haber sido parte del cogobierno universitario.
+
+d. Record Académico de materias aprobadas.
+
+### Artículo 12. DEL PROCEDIMIENTO
+La solicitud de admisión será evaluada por el Consejo Ejecutivo y Directivo conforme a las necesidades de la sociedad, en caso de denegación debiendo justificar las razones y adjuntar respaldo. Se podrá convocar a un tribunal en caso de tener dudas o por disconformidad del resultado por parte del postulante.
+
+### Artículo 13. DE LAS CONTROVERSIAS
+En caso de controversia se convocará a un tribunal para la evaluación del procedimiento de admisión, recabando información, escuchando a ambas partes, determinando la validez de la evaluación y determinar el estado de la admisión.
+
+# Capítulo V. RÉGIMEN DE SANCIONES
+
+### Artículo 14. TIPOS DE FALTAS
+
+a. Leves: Falta de asistencia injustificada a tres reuniones o justificadas a cinco reuniones de forma continua o discontinua anualmente.
+
+b. Graves: Incumplimiento de funciones o uso indebido del nombre de la sociedad.
+
+### Artículo 15. SANCIONES
+Se establecen las siguientes sanciones.
+
+a. Amonestación verbal o escrita.
+
+b. Suspensión temporal de derechos.
+
+c. Expulsión y veto definitivo.
+
+
+### Artículo 16. PROCEDIMIENTO
+Las sanciones serán sugeridas por el Consejo Ejecutivo y Directivo, decididas por un Tribunal y ratificadas para su cumplimiento por la Asamblea General.
+
+### Artículo 17. PROCEDIMIENTO DE RESOLUCIÓN DE CONFLICTOS INTERNOS
+Los conflictos serán resueltos inicialmente mediante mediación por el Consejo Ejecutivo y Directivo. Si no se llega a un acuerdo, el tribunal intervendrá y su veredicto será definitivo.
+
+### Artículo 18. EXPULSIÓN DE UN MIEMBRO
+La expulsión de un miembro deberá ser ratificada por mayoría simple de la Asamblea General, tras la presentación de pruebas, argumentos por ambas partes y el veredicto de ambas partes.
+
+# Capítulo VI. FINANZAS Y RECURSOS
+
+### Artículo 19. ADMINISTRACIÓN DE RECURSOS
+El Secretario/a Financiero presentará un informe detallado sobre el uso de los recursos cada semestre, y se gestionan cuentas de ingreso y egreso mediante plataformas autorizadas por la UMSA y pertenecientes a la sociedad.
+
+### Artículo 20. DETALLES SOBRE LA ADMINISTRACIÓN DE FONDOS Y SU DISTRIBUCIÓN ENTRE PROYECTOS
+
+1. Los fondos de la Sociedad se administrarán bajo la supervisión del Secretario Financiero, quien elaborará un presupuesto semestral aprobado por la Asamblea.
+
+2. Los recursos serán distribuidos entre proyectos según las prioridades establecidas por el Consejo Ejecutivo y Directivo, y la Asamblea General.
+
+### Artículo 21. ACTIVIDADES DE FINANCIAMIENTO
+La sociedad podrá organizar eventos académicos, culturales o recreativos con fines de financiamiento, bajo supervisión del Consejo Ejecutivo y Directivo. Se incentivará la búsqueda de financiamiento externo mediante la presentación de propuestas a entidades académicas, organizaciones e instituciones públicas y privadas, así como organizaciones sin fines de lucro.
+
+# Capítulo VII. DE LOS TRIBUNALES
+
+### Artículo 22. CONVOCATORIA DEL TRIBUNAL
+La convocatoria de un tribunal podrá realizarse en los siguientes casos:
+
+a. Elecciones: A solicitud del Consejo Ejecutivo y Directivo o de un candidato, para verificar el cumplimiento de los requisitos de los postulantes.
+
+b. Admisiones: A solicitud del Consejo Ejecutivo y Directivo, para verificar los requisitos de los postulantes.
+
+c. Resolución de Conflictos: A solicitud de cualquiera de las partes involucradas en un conflicto o de la Asamblea General.
+
+d. Requerimiento de la Asamblea: Cuando la Asamblea General lo determine necesario para cualquier asunto no contemplado en los puntos anteriores.
+
+### Artículo 23. PROCEDIMIENTO EN CASOS ELECTORALES
+
+a. Una vez convocado el tribunal, se establecerá un plazo de hasta 5 días hábiles para la verificación de los requisitos de los postulantes.
+
+b. El tribunal presentará su informe final a la Asamblea General antes de la votación, indicando si los candidatos cumplen con los requisitos establecidos conforme a la normativa.
+
+c. Los candidatos que no cumplan con los requisitos establecidos o presenten documentación incompleta serán descalificados antes del inicio de la campaña.
+
+### Artículo 24. PROCEDIMIENTO EN CASOS DE ADMISIÓN
+
+a. El tribunal será convocado para revisar las solicitudes de admisión que generen dudas o controversias sobre el cumplimiento de los requisitos.
+
+b. El tribunal tendrá un plazo de 7 días hábiles para emitir un dictamen vinculante, que será comunicado tanto al Consejo Ejecutivo y Directivo como al solicitante.
+
+### Artículo 25. PROCEDIMIENTO EN RESOLUCIÓN DE CONFLICTOS
+
+a. Una vez activado el tribunal, se abrirá un periodo de presentación de pruebas y testimonios por parte de las partes involucradas, con una duración máxima de 10 días hábiles.
+
+b. El tribunal tendrá un plazo adicional de 5 días hábiles para emitir su veredicto, el cual será comunicado a todas las partes y será de obligatorio cumplimiento.
+
+### Artículo 26. REPORTE Y DOCUMENTACIÓN
+Cada tribunal deberá elaborar un informe detallado sobre el proceso seguido y las decisiones tomadas, el cual será archivado por la Secretaría de Actas y Comunicación para futuras referencias.
+
+# Capítulo VIII. DE LOS PROYECTOS
+
+### Artículo 27. PROCESO PARA LA PRESENTACIÓN Y APROBACIÓN DE PROYECTOS
+Cualquier miembro de la Sociedad puede presentar un proyecto. Este debe incluir un resumen, objetivos, recursos necesarios y otros objetivos necesarios.
+El proyecto será evaluado por la Comisión correspondiente y el Consejo Ejecutivo y Directivo, quienes emitirán una recomendación en un plazo máximo de 15 días.
+La Asamblea General aprobará o rechazará el proyecto por voto por puntaje secreto, el proyecto será aprobado si tiene un puntaje mayor a 5 puntos.
+
+### Artículo 28. COORDINACIÓN ENTRE RAMAS
+A cada proyecto se le deberá designar uno o más comité encargados de su ejecución, que reportará tanto a su Comisión de pertenencia o al Consejo Ejecutivo y Directivo. Los informes de avance deberán presentarse cada 3 meses.
+
+### Artículo 29. FORMATO DE PRESENTACIÓN DE RESULTADOS
+El informe final deberá incluir los objetivos logrados, resultados obtenidos, análisis de impacto, y recomendaciones. El formato será aprobado por el Consejo Ejecutivo y Directivo, y el informe será presentado a la Asamblea General para su evaluación.
+
+# Capítulo IX. PROCEDIMIENTO ELECTORAL
+
+### Artículo 30. ENCARGADOS
+Un tribunal será convocado para supervisar las elecciones y verificar los requisitos de los postulantes a cargos. Su independencia será garantizada, y sus decisiones serán vinculantes.
+
+### Artículo 31. REQUISITOS PARA LA CANDIDATURA
+
+a. Cumplir con los requisitos de cargo establecidos en el presente reglamento.
+
+b. No haber sido sancionado por faltas graves o estar sujeto a un proceso disciplinario pendiente dentro de la Sociedad.
+
+c. Presentar un plan de trabajo detallado que contemple las actividades a realizar durante su gestión, orientado a los objetivos científicos y académicos de la Sociedad.
+
+d. No haber ocupado cargos en el cogobierno universitario (FUL, CEFAC, Centro de Estudiantes) ni haber estado vinculado a partidos políticos.
+
+### Artículo 32. PLAN DE TRABAJO
+El plan de trabajo debe ser original y orientado a los principios de la Sociedad, incluyendo:
+
+a. Objetivos específicos para la gestión.
+
+b. Propuestas concretas en áreas de investigación, desarrollo académico y actividades de extensión.
+
+c. Un cronograma de actividades que cubra los periodos académicos.
+
+d. Indicadores de éxito y formas de evaluación de los avances durante el mandato.
+
+El plan de trabajo será revisado por el tribunal antes de ser publicado, para garantizar su viabilidad y su alineación con los principios de la Sociedad.
+
+### Artículo 33. PROCEDIMIENTO DE ELECCIÓN
+
+a. Los candidatos deberán presentar su postulación al Consejo Ejecutivo y Directivo con 15 días de antelación a la Asamblea General donde se llevará a cabo la elección.
+
+b. El tribunal verificará que los candidatos cumplan con los requisitos, y emitirá un informe previo a la votación adjuntando toda la documentación.
+
+c. Durante la Asamblea General de la elección previo a la votación los candidatos presentarán y defenderán su plan de trabajo, resolviendo cualquier duda dada por la asamblea.
+
+d. La elección de cargos se llevará a cabo por voto por puntaje en Asamblea General.
+
+### Artículo 34. MECANISMOS Y RESOLUCIÓN DE CONFLICTOS
+
+a. La votación será por valoración secreta, donde los miembros asignan una puntuación del 1 al 10 a los candidatos. Ganará el candidato con la puntuación promedio más alta.
+
+b. En caso de empate, se convocará a una nueva votación inmediata entre los candidatos con igual puntaje.
+
+c. Los conflictos electorales serán resueltos por el tribunal, cuya decisión será definitiva y vinculante.
+
+# Capítulo X. DE LA CAMPAÑA ELECTORAL
+
+### Artículo 35. OBJETIVO
+La campaña electoral dentro de la Sociedad tiene como objetivo garantizar un proceso transparente, ético y académico, promoviendo propuestas basadas en el trabajo científico y la gestión estudiantil, evitando la movilización masiva de votantes y cualquier tipo de politización.
+
+### Artículo 36. DURACIÓN
+La campaña electoral tendrá una duración máxima de 10 días hábiles antes de la fecha establecida para las elecciones. No se permitirá la extensión de la campaña bajo ninguna circunstancia.
+
+### Artículo 37. MEDIOS DE DIFUSIÓN PERMITIDOS
+
+a. Presentaciones Públicas: Se permitirá a los candidatos realizar una única presentación pública de su plan de trabajo ante los miembros de la Sociedad en la Asamblea General de elección deberá ser transmitida de manera virtual para garantizar la equidad en el acceso a la información.
+
+b. Difusión en Medios Digitales: Los candidatos podrán difundir su plan de trabajo mediante las redes sociales oficiales de la Sociedad, así como en medios digitales autorizados, siempre y cuando el contenido sea informativo y no incite a la polarización.
+
+c. Material Impreso: Los candidatos podrán distribuir material impreso (volantes, trípticos) dentro de los límites de la Carrera de Estadística, todos ellos con contenido exclusivamente académico.
+
+### Artículo 38. PROHIBICIONES
+
+a. Movilización de Grupos: Está prohibido movilizar grupos de personas en favor de un candidato, dentro o fuera de las instalaciones de la Universidad.
+
+b. Publicidad Políticamente Partidista: Queda terminantemente prohibido cualquier tipo de propaganda o discurso que implique alineaciones con partidos políticos, ideologías externas a la misión académica de la Sociedad, o cualquier tipo de proselitismo político.
+
+c. Uso de Recursos de la Sociedad: Ningún candidato podrá hacer uso de los recursos, bienes o infraestructura de la Sociedad para promover su candidatura, excepto en las presentaciones oficiales organizadas por el Consejo Directivo y Ejecutivo y el Tribunal Electoral.
+
+d. Incentivos Económicos o Materiales: Está prohibido ofrecer incentivos económicos, regalos o cualquier tipo de recompensa a cambio de votos.
+
+### Artículo 39. SANCIONES
+
+1. Cualquier candidato que infrinja las normas de campaña será descalificado inmediatamente del proceso electoral.
+
+2. Si el incumplimiento ocurre después de la elección y el candidato resulta electo, se podrá iniciar un proceso de destitución tras la presentación de pruebas ante el tribunal. también está puesto a sanciones del régimen de sanciones.
+
+# Capítulo XI. RELACIONES INTERINSTITUCIONALES
+
+### Artículo 40. NORMAS DE INTERACCIÓN
+La Sociedad podrá establecer relaciones con otras sociedades científicas, universidades y entidades afines. Estas interacciones deberán estar orientadas a la colaboración en proyectos de investigación, eventos académicos u otros que no vayan en contra de los valores y principios de la sociedad.
+
+### Artículo 41. PROCEDIMIENTO 
+Todos los convenios de colaboración deberán ser aprobados e instruidos por la Asamblea General y firmados por el Presidente. Un comité designado se encargará de supervisar el cumplimiento del convenio.
+
+### Artículo 42. PARTICIPACIÓN EN REDES CIENTÍFICAS
+Se promoverá la participación activa en redes científicas locales e internacionales, así como en congresos y seminarios de relevancia. La Sociedad deberá designar representantes para estas interacciones.

@@ -1,32 +1,64 @@
 ---
-title: Bienvenido
+pagetitle: Bienvenidos
 toc: false
 reader-mode: true
 comments: false
 ---
-# La Sociedad Cientifica de Estudiantes de Estadística - SOCIEST
+# Bienvenidos a la Sociedad Científica de Estudiantes de Estadística
+
+Somos un grupo de estudiantes apasionados por la **estadística** y comprometidos con el desarrollo académico y social. Nuestra sociedad nace con el propósito de generar espacios de investigación, aprendizaje y colaboración entre estudiantes, docentes y la comunidad en general. 
+
+En la era del **Big Data** y la ciencia de datos, creemos firmemente que la **estadística** es una disciplina transversal que puede generar un gran impacto en múltiples áreas como la salud, la economía, la tecnología y el medio ambiente. A través de nuestras actividades y proyectos, buscamos formar a los futuros líderes y profesionales que transformarán datos en conocimiento útil y soluciones innovadoras.
+
+## ¿Quiénes Somos?
+
+Somos la **Sociedad Científica de Estudiantes de Estadística** de la Universidad Mayor de San Andrés. Fundada el 3 de octubre de 2024, nuestra misión es fomentar el desarrollo y la difusión del conocimiento estadístico mediante la investigación científica, la formación académica y la divulgación activa.
+
+### Misión
+
+Nuestra misión es clara: **Promover el avance del conocimiento estadístico**. Lo hacemos a través de la investigación, la colaboración académica y la aplicación práctica. Aspiramos a contribuir al crecimiento de la ciencia y la tecnología, generando un impacto positivo tanto en la universidad como en la sociedad.
+
+### Visión
+
+Ser una **sociedad líder** que promueva la estadística como herramienta fundamental para resolver problemas en diversas áreas del conocimiento, impulsando el desarrollo académico y profesional de nuestros miembros.
+
+## ¿Qué Ofrecemos?
+
+### Investigación y Formación
+
+- **Talleres y cursos** especializados en ciencia de datos, software estadístico, y técnicas avanzadas de análisis.
+- **Proyectos de investigación** con impacto en áreas clave como la salud, la economía, y la sostenibilidad.
+- **Congresos científicos estudiantiles** donde nuestros miembros pueden presentar y discutir sus hallazgos.
+- **Publicaciones y redes de información** para difundir el conocimiento generado en la sociedad.
+
+### Ética y Liderazgo
+
+Nos preocupamos por la **formación integral** de nuestros miembros, por lo que también diseñamos cursos enfocados en la **ética profesional**, el **compromiso social** y el **liderazgo** dentro de la investigación científica.
+
+## Explorando el Potencial con Quarto
+
+Nuestra sociedad utiliza **Quarto**, una potente plataforma de publicación para proyectos de **Data Science** y **documentación**. Gracias a Quarto, podemos crear documentos reproducibles, informes, presentaciones y hasta libros interactivos que integran código y resultados en un solo lugar. Con Quarto:
+
+- **Generamos informes interactivos** con visualizaciones avanzadas y análisis detallados.
+- **Publicamos investigaciones** reproducibles en múltiples formatos: HTML, PDF y libros electrónicos.
+- **Facilitamos la colaboración** entre los miembros de nuestra sociedad, permitiendo un flujo de trabajo ágil y dinámico.
+
+Al usar **Quarto** en combinación con lenguajes como **R**, **Python**, y **Julia**, ofrecemos a nuestros miembros las herramientas necesarias para abordar proyectos complejos y compartir resultados de manera efectiva.
+
+## ¿Por Qué Unirte?
+
+Si eres estudiante de estadística o disciplinas afines y te apasiona la ciencia de datos, la investigación o simplemente quieres desarrollar nuevas habilidades, ¡te invitamos a unirte a nuestra sociedad! Formar parte de este grupo te permitirá:
+
+- **Colaborar con expertos** y otros estudiantes interesados en el campo.
+- **Acceder a oportunidades** de formación y participación en proyectos reales.
+- **Desarrollar tu perfil profesional** a través de actividades científicas y académicas.
 
 [Únete!](https://forms.gle/YDZCM5fZ87YDewPD9){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 
-La Sociedad Cientifica de Estudiantes de Estadística con sigla [SOCIEST](https://sociest.org) es una organizacion academica estudiantil sin fines de lucro, establecidad en la Carrera de [Estadística](https://estadistica.umsa.bo) de la Universidad Mayor de San Andres - [UMSA](https://umsa.bo) que tiene por objetivos.
-## Visión
-Ser una sociedad científica líder en la promoción de la estadística como herramienta fundamental para el análisis y solución de problemas en diversas áreas del conocimiento, impulsando el desarrollo académico y profesional de sus miembros
+### Contacto
 
-## Misión
-Fomentar el desarrollo y la difusión del conocimiento estadístico mediante la investigación científica, la colaboración académica y la aplicación práctica, contribuyendo al avance de la ciencia y la tecnología en beneficio de la Universidad Mayor de San Andrés y la sociedad en su conjunto.
+Para más información sobre cómo unirte o colaborar con nosotros, no dudes en contactarnos. Puedes encontrarnos en:
 
-## Objetivo
-### General
-Promover el avance del conocimiento estadístico mediante la investigación científica, la formación de recursos humanos y la divulgación activa, contribuyendo al desarrollo académico y social
-
-### Especificos
-- Desarrollar competencias para abordar la actividad científica en distintos contextos de la investigación.
-- Impartir cursos y talleres sobre paradigmas científicos y técnicas de investigación.
-- Fomentar la difusión de la producción científica mediante publicaciones y redes de información.
-- Diseñar cursos relacionados con aspectos éticos, compromiso social y liderazgo en la investigación científica.
-- Organizar y participar en congresos científicos estudiantiles para divulgar los resultados de investigación.
-- Estimular actividades que fomenten la creatividad y la generación de conocimientos, promoviendo la innovación y el desarrollo económico y social de la región.
-
-
-[Unete!](https://forms.gle/YDZCM5fZ87YDewPD9)
-
+- **Correo**: [sociest@umsa.bo](mailto:sociest@umsa.bo)
+- **LinkedIn**: [https://www.linkedin.com/company/sociest](https://www.linkedin.com/company/sociest)
+- **Facebook**: [https://www.facebook.com/sociest](https://www.facebook.com/sociest)

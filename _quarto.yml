@@ -6,10 +6,11 @@ website:
   title: "Sociedad Científica de Estudiantes de Estadística"
   site-url: https://sociest.org
   description: ""
+  #bread-crumbs: true
 
   comments:
     giscus: 
-      repo: sociest/sociest.github.io
+      repo: sociest/sociest
       category: Q&A
       mapping: title
       reactions-enabled: true
@@ -18,43 +19,64 @@ website:
         dark: dark_dimmed
       language: es
 
-  announcement: 
-    icon: info-circle
-    dismissable: true
-    content: "**Info** - Bienvenido a la nueva pagina web de la sociedad!"
-    type: primary
-    position: below-navbar 
+  #announcement: 
+  #  icon: info-circle
+  #  dismissable: true
+  #  content: "**Info** - Bienvenido a la nueva pagina web de la sociedad!"
+  #  type: primary
+  #  position: below-navbar 
 
-  repo-url: https://github.com/sociest/sociest.github.io
+  repo-url: https://github.com/sociest/sociest
   repo-actions: [edit, source, issue]
   
   back-to-top-navigation: true
   
   navbar:
+    pinned: true
+    logo: "images/logo.jpg"
+    logo-alt: SOCIEST
     left:
       - href: index.qmd
         text: Inicio
+      - text: "Quiénes Somos"
+        menu:
+          - about\index.qmd
+          - about\history.qmd
+          - about\statute.qmd
+      - text: "Nuestra Organización"
+        menu:
+          - organization\index.qmd
+          - organization\members.qmd 
+          - organization\cargos.qmd
+      - text: "Proyectos"
+        menu:
+          - proyects\index.qmd
+          - proyects\about.qmd
+          - proyects\propurses.qmd
       - href: blog.qmd
         text: Blog
-      - href: docs.qmd
-        text: Documentación
-      - href: about.qmd
-        text: Sobre Nosotros
+      - text: "Recursos"
+        menu:
+          - resources\media.qmd
+      - href: contact.qmd
+        text: Contacto
+      - href: support.qmd
+        text: Apoyo
     right:
-      - icon: rss
-        href: index.xml
-    tools:
       - icon: github
         href: https://github.com/sociest/
       - icon: whatsapp
         href: https://whatsapp.com/channel/0029VaoHzI69xVJcZxVuiv05
       - icon: linkedin
-        href: https://www.linkedin.com/company/sociest
+        href: https://www.linkedin.com/company/sociest  
       - icon: facebook
-        href: https://www.facebook.com/profile.php?id=61566085296817
+        href: https://www.facebook.com/sociest
+    tools:
+      - icon: rss
+        href: index.xml
       
   page-footer: 
-    left: "Copyright 2024, Sociedad Científica de Estudiantes de Estadística" 
+    left: "Derechos Reservados 2024, Sociedad Científica de Estudiantes de Estadística" 
     right: 
       - icon: github
         href: https://github.com/sociest/
@@ -63,11 +85,11 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/company/sociest
       - icon: facebook
-        href: https://www.facebook.com/profile.php?id=61566085296817
+        href: https://www.facebook.com/sociest
   
 format:
   html:
-    language: es
+    lang: es
     css: styles.css
     theme:
       light: cosmo

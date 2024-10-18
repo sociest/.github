@@ -1,0 +1,42 @@
+---
+title: Nosotros
+toc: true
+reader-mode: true
+comments: false
+---
+
+# Misión
+
+Nuestra misión es fomentar el desarrollo y la difusión del conocimiento estadístico a través de la investigación científica, la colaboración académica y la aplicación práctica. Buscamos contribuir al avance de la ciencia y la tecnología, beneficiando tanto a la Universidad Mayor de San Andrés como a la sociedad en su conjunto. Queremos crear un entorno en el que los estudiantes se sientan inspirados a explorar y aplicar sus conocimientos estadísticos para generar un impacto positivo en su comunidad.
+
+# Visión
+
+Nuestra visión es ser reconocidos como una sociedad científica líder en la promoción de la estadística como una herramienta esencial para el análisis y la solución de problemas en diversas áreas del conocimiento. Nos esforzamos por impulsar el desarrollo académico y profesional de nuestros miembros, brindándoles oportunidades para crecer y destacar en el ámbito de la estadística, al mismo tiempo que aportamos al progreso de nuestra sociedad.
+
+# Objetivo General
+
+Nuestro objetivo principal es promover el avance del conocimiento estadístico a través de la investigación científica, la formación de futuros profesionales y la divulgación activa. Queremos contribuir no solo al desarrollo académico de nuestros miembros, sino también al progreso social, buscando que la estadística se convierta en una herramienta clave para resolver los desafíos de nuestra comunidad y nuestra región.
+
+# Objetivos Específicos
+
+Como sociedad científica, perseguimos los siguientes objetivos específicos:
+
+a. **Desarrollo de competencias**: Queremos preparar a nuestros miembros para abordar la actividad científica en diversos contextos, capacitándolos con herramientas sólidas y conocimientos actualizados.
+
+b. **Cursos y talleres**: Ofrecemos espacios de formación donde se imparten cursos y talleres sobre paradigmas científicos y técnicas de investigación, esenciales para cualquier estudiante de estadística.
+
+c. **Difusión científica**: Nos enfocamos en fomentar la difusión del conocimiento y los resultados de nuestras investigaciones mediante publicaciones y redes de información que acerquen la ciencia a más personas.
+
+d. **Ética y liderazgo**: Diseñamos cursos que no solo abordan aspectos técnicos, sino también éticos, sociales y de liderazgo, con el fin de formar investigadores comprometidos con su entorno.
+
+e. **Congresos científicos**: Organizamos y participamos en congresos estudiantiles, donde nuestros miembros pueden divulgar sus investigaciones y conectar con otros estudiantes y profesionales del campo.
+
+f. **Creatividad e innovación**: Estimulamos la creatividad y promovemos la generación de nuevos conocimientos que contribuyan al desarrollo económico y social de nuestra región, incentivando la innovación en cada uno de nuestros proyectos.
+
+# Principios y Valores
+
+Nuestra Sociedad se rige por los principios de **independencia académica**, **ética profesional** y **neutralidad política**. Nos comprometemos a que nuestras actividades y proyectos sean transparentes y basados en el respeto mutuo. Asimismo, queda prohibido el uso de la Sociedad con fines políticos partidarios, garantizando que nuestra misión se mantenga enfocada en la ciencia y la academia.
+
+# Nuestro Compromiso
+
+En la Sociedad Científica de Estudiantes de Estadística, estamos comprometidos a crear un entorno en el que cada miembro pueda crecer, aprender y contribuir a un futuro más brillante para Bolivia. Creemos firmemente en el poder de la estadística como herramienta para enfrentar desafíos y generar un impacto positivo en nuestra sociedad.

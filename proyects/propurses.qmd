@@ -1,8 +1,9 @@
 ---
-title: "Blog"
-subtitle: "Usa las categorias para poder guiarte a encontrar lo que deseas!"
+title: "Propuestas"
+subtitle: "Donde inicia todo!"
 listing:
-  contents: posts
+  contents: 
+    - propurses.yml
   sort: "date desc"
   type: default
   categories: true
@@ -13,5 +14,3 @@ page-layout: full
 title-block-banner: true
 comments: false
 ---
-
-

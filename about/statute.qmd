@@ -1,14 +1,14 @@
 ---
-title: ESTATUTO ORGÁNICO DE LA SOCIEDAD CIENTÍFICA DE ESTUDIANTES DE ESTADÍSTICA
+title: Estatuto Orgánico
 authors:
-  - name: Comité Fundador
-    affiliation: Sociedad Cientifica de Estudiantes de Estadística
-    roles: writing
-    corresponding: true
+    - name: Sociedad Cientifica de Estudiantes de Estadística
 repo-actions: none
 comments: false
 reader-mode: true
 ---
+
+**Referencia**
+[Enlace al documento en Google Drive](https://docs.google.com/document/d/1WnvTUEvhx0KaVRItRpGLp3_OSU5F1ucdfgKkPHUEPlw/edit?usp=drive_link)
 
 # PREÁMBULO
 En la ciudad de La Paz, a los 3 días del mes de Octubre de 2024, se reunieron los estudiantes de pregrado de la carrera de Estadística de la Facultad de Ciencias Puras y Naturales de la Universidad Mayor de San Andrés, con el fin de constituir la Sociedad Científica de Estudiantes de Estadística de acuerdo con el Reglamento General de las Sociedades Científicas de Estudiantes y las normativas vigentes del Sistema Universitario Boliviano.

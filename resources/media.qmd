@@ -1,0 +1,9 @@
+---
+title: Multimedia
+repo-actions: none
+comments: false
+reader-mode: false
+---
+
+Logo temporal de la sociedad
+![](..\images\logo.jpg)
