@@ -349,7 +349,7 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
                 });
                 return createElement(
                   "a",
-                  { href: "https://www.algolia.com/" },
+                  { href: "http://www.algolia.com/" },
                   logo
                 );
               }
