@@ -5,8 +5,16 @@ project:
 website:
   title: "Sociedad Científica de Estudiantes de Estadística"
   site-url: https://sociest.org
+  favicon: images/logo.jpg
   description: ""
-  #bread-crumbs: true
+  bread-crumbs: true
+
+  open-graph:
+    locale: es_ES
+
+  image: "images/logo.jpg"
+
+  google-analytics: "G-ZEYEY0RVXJ"
 
   comments:
     giscus: 
@@ -19,12 +27,12 @@ website:
         dark: dark_dimmed
       language: es
 
-  #announcement: 
-  #  icon: info-circle
-  #  dismissable: true
-  #  content: "**Info** - Bienvenido a la nueva pagina web de la sociedad!"
-  #  type: primary
-  #  position: below-navbar 
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "**Info** - Bienvenido a la pagina web de la sociedad! cualquier mejora pueden comentarlo!"
+    type: primary
+    position: below-navbar 
 
   repo-url: https://github.com/sociest/sociest
   repo-actions: [edit, source, issue]
