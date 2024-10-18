@@ -86,7 +86,10 @@ website:
         href: https://www.linkedin.com/company/sociest
       - icon: facebook
         href: https://www.facebook.com/sociest
-  
+
+server:
+  https: true
+
 format:
   html:
     lang: es
