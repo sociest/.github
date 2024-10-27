@@ -5,4 +5,28 @@ reader-mode: true
 comments: false
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLa_Paz&mode=WEEK&title=Carrera%20de%20Estad%C3%ADstica&src=Y19kMjE3ZWY1Mzk4Nzg4MWY2Y2U4NDQ1MTE3YTI3YTkyMTc2YThiZGNjZTU0NDFlNjQ2YTViZDYzOGU1NzIzMDk2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZXMtNDE5LmJvI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23F09300&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLa_Paz&mode=WEEK&title=Carrera%20de%20Estad%C3%ADstica&src=Y19kMjE3ZWY1Mzk4Nzg4MWY2Y2U4NDQ1MTE3YTI3YTkyMTc2YThiZGNjZTU0NDFlNjQ2YTViZDYzOGU1NzIzMDk2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZXMtNDE5LmJvI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23F09300&color=%230B8043" style="border:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+*[Actividades Recreativas](https://docs.google.com/forms/d/e/1FAIpQLSfgz9fsBGxZo41JQvnAVU35Ak8fDh6ZZY36pf919d931hGTHw/viewform?usp=sf_link){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}*
+
+_Miss/Mister, Bufa, Noche de talentos_
+
+*[Inscripción Charlas](https://forms.gle/YDZCM5fZ87YDewPD9){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}*
+
+_R Studio, Quarto, Hablemos de la Sociedad Científica_
+
+### Sobre la asistencia
+
+Dependiendo la charla se contará con la asistencia _Presencial, Virtual e Híbrida_.
+
+1. **Presencial**
+    - Se te registrará con tu carnet de identidad o registro universitario al ingresar al aula, ya sea dictándolo o mediante código QR.
+
+2. **Virtual**
+    - Se te registra automáticamente a través de la reunión de meet de la charla.
+    - **OJO:** Debes ingresar con el correo que registraste en la inscripción.
+
+3. **Híbrida**
+    - Se publicará un formulario para que puedas autoregistrarte a través de una palabra clave de cada charla.
+
+*[Asistencia Charlas](https://forms.gle/YDZCM5fZ87YDewPD9){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}*
