@@ -1,21 +1,63 @@
 ---
-title: Aniversario de Carrera de Estadística
+pagetitle: Aniversario de Carrera de Estadística
+section-divs: false
+page-layout: custom
 toc: false
+css: index.css
 reader-mode: true
 comments: false
+aliases:
+  - /aniversary
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLa_Paz&mode=WEEK&title=Carrera%20de%20Estad%C3%ADstica&src=Y19kMjE3ZWY1Mzk4Nzg4MWY2Y2U4NDQ1MTE3YTI3YTkyMTc2YThiZGNjZTU0NDFlNjQ2YTViZDYzOGU1NzIzMDk2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZXMtNDE5LmJvI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23F09300&color=%230B8043" style="border:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+::: {.container}
 
-*[Actividades Recreativas](https://docs.google.com/forms/d/e/1FAIpQLSfgz9fsBGxZo41JQvnAVU35Ak8fDh6ZZY36pf919d931hGTHw/viewform?usp=sf_link){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}*
 
-_Miss/Mister, Bufa, Noche de talentos_
+::: {.calendar}
+# Aniversario de Carrera de Estadística
+## Calendario de Actividades
 
-*[Inscripción Charlas](https://docs.google.com/forms/d/e/1FAIpQLSecwVMn7-jmn4qOegyYzw_pEop4ZDirNss0pLtKTO9NqzcIGA/viewform?usp=sf_link){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}*
+<iframe src="https://calendar.google.com/calendar/embed?height=1000&wkst=1&ctz=America%2FLa_Paz&title=Carrera%20de%20Estad%C3%ADstica&mode=WEEK&src=Y181OWQ3N2M5ODRiM2NjOTgyZDllMGJiNmRkNmM1NGZmNTM0YzNjYmI3MTFjOTcyNDk2YTI0ZTY0YWNiNjM3MmYwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y19kMjE3ZWY1Mzk4Nzg4MWY2Y2U4NDQ1MTE3YTI3YTkyMTc2YThiZGNjZTU0NDFlNjQ2YTViZDYzOGU1NzIzMDk2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZXMtNDE5LmJvI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23009688&color=%23F09300&color=%230B8043" style="border-width:0" width="100%" height="1000" frameborder="0" scrolling="no"></iframe>
+:::
 
-_R Studio, Quarto, Hablemos de la Sociedad Científica_
+::: {.content}
+## Inscríbete!
 
-### Sobre la asistencia
+### Académicas (Naranja)
+    - Curso: Introducción a la estadística descriptiva y regresión en Rstudio
+    - Charla: Visualización
+    - Charla de simulación aplicada
+    - Charla: Más allá de los límites de la IA débil: IA pentacular y computación cuántica
+    - Hablemos de la Sociedad Científica
+    - Charla: Cómo complementar el aprendizaje de las materias cuantitativas con ChatGPT y Python
+    - Curso: Contando historias con datos
+    - Charla: Cómo abordar una investigación científica
+    - Charla sobre la Acreditación
+    - Charla: Ciencia de datos
+    - Modelando relación entre variables
+    - Charla: Censo
+    - Charla: Estadística y cambio climático: Un campo de investigación abierto
+    - ¿Es la teoría de juegos realmente divertida?
+    - Introducción a Quarto
+    - Charla a confirmar tema
+    - Análisis estadístico en Excel
+
+[Inscripción Académicas](https://docs.google.com/forms/d/e/1FAIpQLSecwVMn7-jmn4qOegyYzw_pEop4ZDirNss0pLtKTO9NqzcIGA/viewform?usp=sf_link){.btn .btn-success .btn-lg}
+
+### Recreativas (Verde)
+    - Miss/Mister
+    - Bufa
+    - Noche de talentos
+    - Campeonato de Futsal
+    - Campeonato de Wally
+    - Fiesta!
+    - Choripaneada
+
+[Inscripción Recreativas](https://docs.google.com/forms/d/e/1FAIpQLSfgz9fsBGxZo41JQvnAVU35Ak8fDh6ZZY36pf919d931hGTHw/viewform?usp=sf_link){.btn .btn-success .btn-lg}
+
+## Sobre la asistencia
+
+[Asistencia Charlas](https://docs.google.com/forms/d/e/1FAIpQLSeyhg7mD7IMvGcAajqMow0iv6s-MYIP6Ev2w309XTjVCbPpwQ/viewform?usp=sf_link){.btn .btn-success .btn-lg}
 
 Dependiendo la charla se contará con la asistencia _Presencial, Virtual e Híbrida_.
 
@@ -28,5 +70,6 @@ Dependiendo la charla se contará con la asistencia _Presencial, Virtual e Híbr
 
 3. **Híbrida**
     - Se publicará un formulario para que puedas autoregistrarte a través de una palabra clave de cada charla.
+:::
 
-*[Asistencia Charlas](https://docs.google.com/forms/d/e/1FAIpQLSeyhg7mD7IMvGcAajqMow0iv6s-MYIP6Ev2w309XTjVCbPpwQ/viewform?usp=sf_link){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}*
+:::

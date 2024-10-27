@@ -3,6 +3,9 @@ title: Cargos
 toc: true
 reader-mode: true
 comments: false
+aliases:
+  - /equipo
+  - /team
 ---
 
 # Consejo Directivo y Ejecutivo

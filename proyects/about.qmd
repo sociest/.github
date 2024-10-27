@@ -3,6 +3,8 @@ title: Sobre los proyectos
 toc: true
 reader-mode: true
 comments: false
+aliases:
+  - /proyectos/sobre
 ---
 
 La organización de la sociedad va de las siguiente forma.

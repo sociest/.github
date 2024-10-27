@@ -3,6 +3,8 @@ title: Historia
 toc: true
 reader-mode: true
 comments: false
+aliases:
+  - /historia
 ---
 
 # Antecedentes

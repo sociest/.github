@@ -71,18 +71,16 @@ website:
       - href: support.qmd
         text: Apoyo
     right:
-      - icon: github
-        href: https://github.com/sociest/
       - icon: whatsapp
         href: https://whatsapp.com/channel/0029VaoHzI69xVJcZxVuiv05
       - icon: linkedin
         href: https://www.linkedin.com/company/sociest  
       - icon: facebook
         href: https://www.facebook.com/sociest
-      - text: "Kaggle"
-        href: https://www.kaggle.com/organizations/sociest
-      - text: "Hugging Face"
-        href: https://huggingface.co/sociest
+      - icon: instagram
+        href: https://www.instagram.com/soci_est/
+      - icon: twitter
+        href: https://x.com/soci_est
     tools:
       - icon: rss
         href: index.xml

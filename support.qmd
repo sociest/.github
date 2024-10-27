@@ -3,4 +3,6 @@ title: Apoyo
 toc: false
 reader-mode: true
 comments: false
+aliases:
+  - /apoyo
 ---

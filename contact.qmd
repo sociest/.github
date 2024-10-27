@@ -3,4 +3,6 @@ title: Contacto
 toc: false
 reader-mode: true
 comments: false
+aliases:
+  - /contacto
 ---
