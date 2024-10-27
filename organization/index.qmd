@@ -5,4 +5,76 @@ reader-mode: true
 comments: false
 ---
 
-La organización de la sociedad va de las siguiente forma.
+Nuestra sociedad busca ser lo más eficiente y flexible, en ello buscando la creación de comisiones y comites especializados que reunan a los miembros que tienen esos conocimientos e intereses.
+
+# Jerarquia Organizativa
+
+```{mermaid}
+flowchart
+
+  subgraph Decisión y Deliberación
+    A[Asamblea General]
+  end
+
+  subgraph Arbitraje y Mediación
+    G[Tribunal]
+  end
+
+  subgraph Administrativo
+    B(Consejo Directivo y Ejecutivo)
+  end
+  
+  subgraph Operativo
+    C[Comisión]
+    E[Comité]
+    subgraph Operativ2o
+        F[Proyecto]
+    end
+  end
+
+  A --> B
+  B --> C
+  B --> E
+  C --> E
+  E --> F
+  C --> F
+  A --> G
+  G --> B
+```
+Notese que.
+- La Asamblea General es el máximo organo de decisión
+- Los Tribunales son independientes y solo rinden cuentas a la Asamblea General
+- El Consejo Directivo y Ejecutivo, es el encargado de supervisar Comisiones y Comites según corresponda
+- Las Comisiones son coordinadores entre Comités según tematicas de trabajo
+- Los Comités son equipos de trabajo especializados en su tarea
+- Los Proyectos se asignan a Comités según su tematica y alcance
+
+
+# Jerarquia Normativa y Quórum 
+```{mermaid}
+flowchart
+  subgraph Mayoría reforzada 
+    A[Estatuto Orgánico]
+  end
+
+  subgraph Mayoría calificada
+    B[Reglamento Interno]
+  end
+  
+  subgraph Mayoría absoluta
+    C[Derogaciones de Resoluciones de la Asamblea]
+  end
+
+  subgraph Mayoría simple
+    D[Resoluciones de la Asamblea]
+    E[Resoluciones de Consejo Ejecutivo y Directivo]
+    F[Tratados y Convenios con otras Organizaciones]
+  end
+  
+  A --> B
+  B --> C
+  C --> D
+  D --> E
+  E --> F
+```
+

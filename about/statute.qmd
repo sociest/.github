@@ -272,9 +272,9 @@ Son reconocidos como miembros de la sociedad a todos los estudiantes universitar
 La sociedad reconocerá las siguientes categorías de miembros:
 
 a. Miembros Activos:
-  i. Miembros Fundadores: Son todos aquellos que hayan participado y contribuido en la fundación de la Sociedad y han firmado en la acta de fundación de la sociedad.
+    i. Miembros Fundadores: Son todos aquellos que hayan participado y contribuido en la fundación de la Sociedad y han firmado en la acta de fundación de la sociedad.
   
-  ii. Miembros Titulares: Todos los estudiantes universitarios que hayan sido admitidos y participan de forma activa dentro la Sociedad.
+    ii. Miembros Titulares: Todos los estudiantes universitarios que hayan sido admitidos y participan de forma activa dentro la Sociedad.
 
 b. Miembros Honorarios: Aquellas personas de reconocida trayectoria en trabajos de investigación científica y tecnológica; hayan realizado aportes tangibles e intelectuales.
 

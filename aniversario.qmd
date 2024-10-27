@@ -1,0 +1,8 @@
+---
+title: Aniversario de Carrera de Estadística
+toc: false
+reader-mode: true
+comments: false
+---
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLa_Paz&mode=WEEK&title=Carrera%20de%20Estad%C3%ADstica&src=Y19kMjE3ZWY1Mzk4Nzg4MWY2Y2U4NDQ1MTE3YTI3YTkyMTc2YThiZGNjZTU0NDFlNjQ2YTViZDYzOGU1NzIzMDk2QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=ZXMtNDE5LmJvI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23F09300&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>

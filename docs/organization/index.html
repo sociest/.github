@@ -97,6 +97,9 @@ cookieconsent.run({
 });
 </script> 
   
+<script src="../site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="../site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="../styles.css">
@@ -184,7 +187,7 @@ cookieconsent.run({
   </li>  
         <li>
     <a class="dropdown-item" href="../proyects/propurses.html">
- <span class="dropdown-text">Propuestas</span></a>
+ <span class="dropdown-text">Listado de Propuestas</span></a>
   </li>  
     </ul>
   </li>
@@ -233,6 +236,14 @@ cookieconsent.run({
 </i> 
 <span class="menu-text"></span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://www.kaggle.com/organizations/sociest"> 
+<span class="menu-text">Kaggle</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://huggingface.co/sociest"> 
+<span class="menu-text">Hugging Face</span></a>
+  </li>  
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -249,8 +260,15 @@ cookieconsent.run({
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">En esta página</h2>
+   
+  <ul>
+  <li><a href="#jerarquia-organizativa" id="toc-jerarquia-organizativa" class="nav-link active" data-scroll-target="#jerarquia-organizativa">Jerarquia Organizativa</a></li>
+  <li><a href="#jerarquia-normativa-y-quórum" id="toc-jerarquia-normativa-y-quórum" class="nav-link" data-scroll-target="#jerarquia-normativa-y-quórum">Jerarquia Normativa y Quórum</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/sociest/sociest/edit/main/organization/index.qmd" class="toc-action"><i class="bi bi-github"></i>Editar esta página</a></li><li><a href="https://github.com/sociest/sociest/blob/main/organization/index.qmd" class="toc-action"><i class="bi empty"></i>Ver el código</a></li><li><a href="https://github.com/sociest/sociest/issues/new" class="toc-action"><i class="bi empty"></i>Informar de un problema</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -274,9 +292,92 @@ cookieconsent.run({
 </header>
 
 
-<p>La organización de la sociedad va de las siguiente forma.</p>
+<p>Nuestra sociedad busca ser lo más eficiente y flexible, en ello buscando la creación de comisiones y comites especializados que reunan a los miembros que tienen esos conocimientos e intereses.</p>
+<section id="jerarquia-organizativa" class="level1">
+<h1>Jerarquia Organizativa</h1>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart
+
+  subgraph Decisión y Deliberación
+    A[Asamblea General]
+  end
+
+  subgraph Arbitraje y Mediación
+    G[Tribunal]
+  end
+
+  subgraph Administrativo
+    B(Consejo Directivo y Ejecutivo)
+  end
+  
+  subgraph Operativo
+    C[Comisión]
+    E[Comité]
+    subgraph Operativ2o
+        F[Proyecto]
+    end
+  end
+
+  A --&gt; B
+  B --&gt; C
+  B --&gt; E
+  C --&gt; E
+  E --&gt; F
+  C --&gt; F
+  A --&gt; G
+  G --&gt; B
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<p>Notese que. - La Asamblea General es el máximo organo de decisión - Los Tribunales son independientes y solo rinden cuentas a la Asamblea General - El Consejo Directivo y Ejecutivo, es el encargado de supervisar Comisiones y Comites según corresponda - Las Comisiones son coordinadores entre Comités según tematicas de trabajo - Los Comités son equipos de trabajo especializados en su tarea - Los Proyectos se asignan a Comités según su tematica y alcance</p>
+</section>
+<section id="jerarquia-normativa-y-quórum" class="level1">
+<h1>Jerarquia Normativa y Quórum</h1>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart
+  subgraph Mayoría reforzada 
+    A[Estatuto Orgánico]
+  end
+
+  subgraph Mayoría calificada
+    B[Reglamento Interno]
+  end
+  
+  subgraph Mayoría absoluta
+    C[Derogaciones de Resoluciones de la Asamblea]
+  end
+
+  subgraph Mayoría simple
+    D[Resoluciones de la Asamblea]
+    E[Resoluciones de Consejo Ejecutivo y Directivo]
+    F[Tratados y Convenios con otras Organizaciones]
+  end
+  
+  A --&gt; B
+  B --&gt; C
+  C --&gt; D
+  D --&gt; E
+  E --&gt; F
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
 
 
+</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -851,7 +952,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
 
-<div class="toc-actions"><ul><li><a href="https://github.com/sociest/sociest/edit/main/organization/index.qmd" class="toc-action"><i class="bi bi-github"></i>Editar esta página</a></li><li><a href="https://github.com/sociest/sociest/blob/main/organization/index.qmd" class="toc-action"><i class="bi empty"></i>Ver el código</a></li><li><a href="https://github.com/sociest/sociest/issues/new" class="toc-action"><i class="bi empty"></i>Informar de un problema</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/sociest/sociest/edit/main/organization/index.qmd" class="toc-action"><i class="bi bi-github"></i>Editar esta página</a></li><li><a href="https://github.com/sociest/sociest/blob/main/organization/index.qmd" class="toc-action"><i class="bi empty"></i>Ver el código</a></li><li><a href="https://github.com/sociest/sociest/issues/new" class="toc-action"><i class="bi empty"></i>Informar de un problema</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
@@ -877,6 +978,16 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       <i class="bi bi-facebook" role="img">
 </i> 
     </a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://www.kaggle.com/organizations/sociest">
+<p>Kaggle</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://huggingface.co/sociest">
+<p>Hugging Face</p>
+</a>
   </li>  
 </ul>
     </div>

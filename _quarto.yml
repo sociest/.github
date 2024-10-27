@@ -16,7 +16,7 @@ website:
 
   google-analytics: "G-ZEYEY0RVXJ"
   cookie-consent: true
-  
+
   comments:
     giscus: 
       repo: sociest/sociest
@@ -80,6 +80,10 @@ website:
         href: https://www.linkedin.com/company/sociest  
       - icon: facebook
         href: https://www.facebook.com/sociest
+      - text: "Kaggle"
+        href: https://www.kaggle.com/organizations/sociest
+      - text: "Hugging Face"
+        href: https://huggingface.co/sociest
     tools:
       - icon: rss
         href: index.xml
@@ -92,9 +96,13 @@ website:
       - icon: whatsapp
         href: https://whatsapp.com/channel/0029VaoHzI69xVJcZxVuiv05
       - icon: linkedin
-        href: https://www.linkedin.com/company/sociest
+        href: https://www.linkedin.com/company/sociest  
       - icon: facebook
         href: https://www.facebook.com/sociest
+      - text: "Kaggle"
+        href: https://www.kaggle.com/organizations/sociest
+      - text: "Hugging Face"
+        href: https://huggingface.co/sociest
 
 server:
   https: true

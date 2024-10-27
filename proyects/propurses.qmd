@@ -1,5 +1,5 @@
 ---
-title: "Propuestas"
+title: "Listado de Propuestas"
 subtitle: "Donde inicia todo!"
 listing:
   contents: 
