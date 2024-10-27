@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Listado de Proyectos – Sociedad Científica de Estudiantes de Estadística</title>
+<title>Normativa – Sociedad Científica de Estudiantes de Estadística</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,28 +23,28 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../images/logo.jpg" rel="icon" type="image/jpeg">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/cookie-consent/cookie-consent.js"></script>
-<link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../images/logo.jpg" rel="icon" type="image/jpeg">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../../site_libs/cookie-consent/cookie-consent.js"></script>
+<link href="../../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -75,20 +75,104 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-estatutos .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-date','listing-description','listing-categories','listing-link',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-date','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-date","listing-description","listing-categories","listing-link"],
+      searchColumns: ["listing-title","listing-date","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-estatutos'] = new List('listing-estatutos', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-reglamentos .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-date','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-date","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-reglamentos'] = new List('listing-reglamentos', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-resoluciones .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-date','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-date","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-resoluciones'] = new List('listing-resoluciones', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-correspondencia .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-date','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] },{ data: ['listing-date-sort'] }],
+      
+      searchColumns: ["listing-title","listing-date","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-correspondencia'] = new List('listing-correspondencia', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -159,10 +243,10 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="../styles.css">
-<link rel="alternate" type="application/rss+xml" title="Sociedad Científica de Estudiantes de Estadística" href="index.xml" data-external="1"><meta property="og:title" content="Listado de Proyectos – Sociedad Científica de Estudiantes de Estadística">
-<meta property="og:description" content="El corazón de la sociedad!">
-<meta property="og:image" content="https://sociest.org/proyects/images/logo.jpg">
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="Normativa – Sociedad Científica de Estudiantes de Estadística">
+<meta property="og:description" content="">
+<meta property="og:image" content="https://sociest.org/nosotros/normas/images/logo.jpg">
 <meta property="og:site_name" content="Sociedad Científica de Estudiantes de Estadística">
 <meta property="og:locale" content="es_ES">
 </head>
@@ -174,10 +258,10 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../images/logo.jpg" alt="SOCIEST" class="navbar-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/logo.jpg" alt="SOCIEST" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Sociedad Científica de Estudiantes de Estadística</span>
     </a>
   </div>
@@ -188,27 +272,30 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Inicio</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-nosotros" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Nosotros</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-quiénes-somos" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Quiénes Somos</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-nosotros">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-quiénes-somos">    
         <li>
-    <a class="dropdown-item" href="../nosotros/index.html">
+    <a class="dropdown-item" href="../../nosotros/index.html">
  <span class="dropdown-text">Nosotros</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../nosotros/historia/index.html">
+    <a class="dropdown-item" href="../../nosotros/historia/index.html">
  <span class="dropdown-text">Historia</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../nosotros/estatuto/index.html">
+    <a class="dropdown-item" href="../../nosotros/estatuto/index.html">
  <span class="dropdown-text">Estatuto Orgánico</span></a>
   </li>  
-        <li class="dropdown-header">nosotros.qmd</li>
+        <li>
+    <a class="dropdown-item" href="../../nosotros/normas/index.html">
+ <span class="dropdown-text">Normativa</span></a>
+  </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
@@ -217,15 +304,15 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-nuestra-organización">    
         <li>
-    <a class="dropdown-item" href="../organization/index.html">
+    <a class="dropdown-item" href="../../organization/index.html">
  <span class="dropdown-text">Sobre la Organización</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../organization/members.html">
+    <a class="dropdown-item" href="../../organization/members.html">
  <span class="dropdown-text">Miembros</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../organization/cargos.html">
+    <a class="dropdown-item" href="../../organization/cargos.html">
  <span class="dropdown-text">Cargos</span></a>
   </li>  
     </ul>
@@ -236,21 +323,21 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-proyectos">    
         <li>
-    <a class="dropdown-item" href="../proyects/index.html">
+    <a class="dropdown-item" href="../../proyects/index.html">
  <span class="dropdown-text">Listado de Proyectos</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../proyects/about.html">
+    <a class="dropdown-item" href="../../proyects/about.html">
  <span class="dropdown-text">Sobre los proyectos</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../proyects/propurses.html">
+    <a class="dropdown-item" href="../../proyects/propurses.html">
  <span class="dropdown-text">Listado de Propuestas</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../blog.html"> 
+    <a class="nav-link" href="../../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -259,17 +346,17 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-recursos">    
         <li>
-    <a class="dropdown-item" href="../resources/media.html">
+    <a class="dropdown-item" href="../../resources/media.html">
  <span class="dropdown-text">Multimedia</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../contact.html"> 
+    <a class="nav-link" href="../../contact.html"> 
 <span class="menu-text">Contacto</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../support.html"> 
+    <a class="nav-link" href="../../support.html"> 
 <span class="menu-text">Apoyo</span></a>
   </li>  
 </ul>
@@ -302,7 +389,7 @@ window.Quarto = {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-    <a href="../index.xml" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-rss"></i></a>
+    <a href="../../index.xml" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-rss"></i></a>
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alternar modo oscuro"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
@@ -315,8 +402,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">Listado de Proyectos</h1>
-            <p class="subtitle lead">El corazón de la sociedad!</p>
+      <h1 class="title">Normativa</h1>
                       </div>
   </div>
     
@@ -333,8 +419,17 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(2)</span></div><div class="category" data-category="interacción">interacción <span class="quarto-category-count">(1)</span></div><div class="category" data-category="investigacción">investigacción <span class="quarto-category-count">(1)</span></div><div class="category" data-category="publicidad">publicidad <span class="quarto-category-count">(1)</span></div><div class="category" data-category="transparencia">transparencia <span class="quarto-category-count">(1)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">En esta página</h2>
+   
+  <ul>
+  <li><a href="#estatutos" id="toc-estatutos" class="nav-link active" data-scroll-target="#estatutos">Estatutos</a></li>
+  <li><a href="#reglamentos" id="toc-reglamentos" class="nav-link" data-scroll-target="#reglamentos">Reglamentos</a></li>
+  <li><a href="#resoluciones" id="toc-resoluciones" class="nav-link" data-scroll-target="#resoluciones">Resoluciones</a></li>
+  <li><a href="#correspondencia" id="toc-correspondencia" class="nav-link" data-scroll-target="#correspondencia">Correspondencia</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/sociest/sociest/edit/main/nosotros/normas/index.qmd" class="toc-action"><i class="bi bi-github"></i>Editar esta página</a></li><li><a href="https://github.com/sociest/sociest/blob/main/nosotros/normas/index.qmd" class="toc-action"><i class="bi empty"></i>Ver el código</a></li><li><a href="https://github.com/sociest/sociest/issues/new" class="toc-action"><i class="bi empty"></i>Informar de un problema</a></li></ul></div></nav>
+    <h5 class="quarto-listing-category-title">Categorías</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todas <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Asamblea General Ordinaria N°001/2024">Asamblea General Ordinaria N°001/2024 <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Asamblea de fundación">Asamblea de fundación <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Estructura">Estructura <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Normativa">Normativa <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -342,15 +437,103 @@ window.Quarto = {
 
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<section id="estatutos" class="level2">
+<h2 class="anchored" data-anchor-id="estatutos">Estatutos</h2>
+<div id="listing-estatutos" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Asamblea de fundación" data-listing-date-sort="1727928000000">
+<a href="https://drive.google.com/file/d/1KruLw6SO_6be1O8KfPp-Q9fDNsruGfmL/view?usp=drive_link" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Estatuto Orgánico
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Asamblea de fundación'); return false;">
+Asamblea de fundación
+</div>
+</div>
+<div class="card-text listing-description">
+Base de la sociedad
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+3 oct 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No hay resultados
+</div>
+</div>
+</section>
+<section id="reglamentos" class="level2">
+<h2 class="anchored" data-anchor-id="reglamentos">Reglamentos</h2>
+<div id="listing-reglamentos" class="quarto-listing quarto-listing-container-grid">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
      <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Ordenar por" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+     <select id="listing-reglamentos-sort" class="form-select" aria-label="Ordenar por" onchange="window['quarto-listings']['listing-reglamentos'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Ordenar por</option>
+       <option value="index" data-direction="asc">Por defecto</option>
+         <option value="listing-title" data-direction="asc">
+          Título
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Fecha - Menos reciente
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Fecha - Más reciente
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filtro">
+    </div>
+</div>
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Asamblea de fundación" data-listing-date-sort="1727928000000">
+<a href="https://drive.google.com/file/d/1fFqCILa9m406QKGpOBi_mzXmMkrKYgRn/view?usp=drive_link" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Reglamento Interno
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Asamblea de fundación'); return false;">
+Asamblea de fundación
+</div>
+</div>
+<div class="card-text listing-description">
+Procedimientos de la sociedad
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+3 oct 2024
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No hay resultados
+</div>
+</div>
+</section>
+<section id="resoluciones" class="level2">
+<h2 class="anchored" data-anchor-id="resoluciones">Resoluciones</h2>
+<div id="listing-resoluciones" class="quarto-listing quarto-listing-container-default">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-resoluciones-sort" class="form-select" aria-label="Ordenar por" onchange="window['quarto-listings']['listing-resoluciones'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
        <option value="" disabled="" selected="" hidden="">Ordenar por</option>
        <option value="index" data-direction="asc">Por defecto</option>
          <option value="listing-title" data-direction="asc">
@@ -370,64 +553,114 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="investigacción" data-listing-date-sort="1729137600000">
+<div class="quarto-post image-right" data-index="0" data-categories="Asamblea General Ordinaria N°001/2024,Normativa" data-listing-date-sort="1729742400000">
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="" class="no-external">Proyecto de Investigación de Prueba de motor</a>
+<a href="https://drive.google.com/file/d/1XKvkI7Gw51deqERkv7RopJ3A_KLFllGP/view?usp=drive_link" class="no-external">Resolución N°001/2024</a>
 </h3>
 <div class="listing-subtitle">
-<a href="" class="no-external"></a>
+<a href="https://drive.google.com/file/d/1XKvkI7Gw51deqERkv7RopJ3A_KLFllGP/view?usp=drive_link" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('investigacción'); return false;">
-investigacción
+<div class="listing-category" onclick="window.quartoListingCategory('Asamblea General Ordinaria N°001/2024'); return false;">
+Asamblea General Ordinaria N°001/2024
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Normativa'); return false;">
+Normativa
 </div>
 </div>
 <div class="listing-description">
-<a href="" class="no-external">Resumen de la proyección de las Unidades Educativas al 2024 en base al 2020.</a>
+<a href="https://drive.google.com/file/d/1XKvkI7Gw51deqERkv7RopJ3A_KLFllGP/view?usp=drive_link" class="no-external">Marco legal para realización de actividades virtuales vinculantes</a>
 </div>
 </div>
 <div class="metadata">
-<a href="" class="no-external">
+<a href="https://drive.google.com/file/d/1XKvkI7Gw51deqERkv7RopJ3A_KLFllGP/view?usp=drive_link" class="no-external">
 <div class="listing-date">
-17 oct 2024
-</div>
-<div class="metadata-value listing-link">
-https://sociest.github.io/ue-report/
+24 oct 2024
 </div>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="interacción,transparencia,publicidad" data-listing-date-sort="1728532800000">
+<div class="quarto-post image-right" data-index="1" data-categories="Asamblea General Ordinaria N°001/2024,Estructura" data-listing-date-sort="1729742400000">
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="" class="no-external">Proyecto Pagina Web</a>
+<a href="https://drive.google.com/file/d/1RUqdHh8kI03MYuOCQfEXJoPpKgyzxvxH/view?usp=drive_link" class="no-external">Resolución N°002/2024</a>
 </h3>
 <div class="listing-subtitle">
-<a href="" class="no-external"></a>
+<a href="https://drive.google.com/file/d/1RUqdHh8kI03MYuOCQfEXJoPpKgyzxvxH/view?usp=drive_link" class="no-external"></a>
 </div>
 <div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('interacción'); return false;">
-interacción
+<div class="listing-category" onclick="window.quartoListingCategory('Asamblea General Ordinaria N°001/2024'); return false;">
+Asamblea General Ordinaria N°001/2024
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('transparencia'); return false;">
-transparencia
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('publicidad'); return false;">
-publicidad
+<div class="listing-category" onclick="window.quartoListingCategory('Estructura'); return false;">
+Estructura
 </div>
 </div>
 <div class="listing-description">
-<a href="" class="no-external">En busqueda de hacer más publica nuestra información</a>
+<a href="https://drive.google.com/file/d/1RUqdHh8kI03MYuOCQfEXJoPpKgyzxvxH/view?usp=drive_link" class="no-external">Establecimiento de comisiones de Investigación e Interacción Social</a>
 </div>
 </div>
 <div class="metadata">
-<a href="" class="no-external">
+<a href="https://drive.google.com/file/d/1RUqdHh8kI03MYuOCQfEXJoPpKgyzxvxH/view?usp=drive_link" class="no-external">
 <div class="listing-date">
-10 oct 2024
+24 oct 2024
 </div>
-<div class="metadata-value listing-link">
-https://sociest.org/
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="Asamblea General Ordinaria N°001/2024,Normativa" data-listing-date-sort="1729742400000">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://drive.google.com/file/d/1iE_QZPyzTOwIU0Fd04QAMQeu9r0EhZcz/view?usp=drive_link" class="no-external">Resolución N°003/2024</a>
+</h3>
+<div class="listing-subtitle">
+<a href="https://drive.google.com/file/d/1iE_QZPyzTOwIU0Fd04QAMQeu9r0EhZcz/view?usp=drive_link" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Asamblea General Ordinaria N°001/2024'); return false;">
+Asamblea General Ordinaria N°001/2024
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Normativa'); return false;">
+Normativa
+</div>
+</div>
+<div class="listing-description">
+<a href="https://drive.google.com/file/d/1iE_QZPyzTOwIU0Fd04QAMQeu9r0EhZcz/view?usp=drive_link" class="no-external">Programa de Miembros Honorarios</a>
+</div>
+</div>
+<div class="metadata">
+<a href="https://drive.google.com/file/d/1iE_QZPyzTOwIU0Fd04QAMQeu9r0EhZcz/view?usp=drive_link" class="no-external">
+<div class="listing-date">
+24 oct 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="Asamblea General Ordinaria N°001/2024,Estructura" data-listing-date-sort="1729742400000">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="https://drive.google.com/file/d/1cVQJX4B8pDjRQ28AjS2AqsgIidoeIErU/view?usp=drive_link" class="no-external">Resolución N°004/2024</a>
+</h3>
+<div class="listing-subtitle">
+<a href="https://drive.google.com/file/d/1cVQJX4B8pDjRQ28AjS2AqsgIidoeIErU/view?usp=drive_link" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Asamblea General Ordinaria N°001/2024'); return false;">
+Asamblea General Ordinaria N°001/2024
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Estructura'); return false;">
+Estructura
+</div>
+</div>
+<div class="listing-description">
+<a href="https://drive.google.com/file/d/1cVQJX4B8pDjRQ28AjS2AqsgIidoeIErU/view?usp=drive_link" class="no-external">Creación de comités de relaciones y afiliaciones</a>
+</div>
+</div>
+<div class="metadata">
+<a href="https://drive.google.com/file/d/1cVQJX4B8pDjRQ28AjS2AqsgIidoeIErU/view?usp=drive_link" class="no-external">
+<div class="listing-date">
+24 oct 2024
 </div>
 </a>
 </div>
@@ -436,7 +669,83 @@ https://sociest.org/
 <div class="listing-no-matching d-none">
 No hay resultados
 </div>
-</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a></main> <!-- /main -->
+</div>
+</section>
+<section id="correspondencia" class="level2">
+<h2 class="anchored" data-anchor-id="correspondencia">Correspondencia</h2>
+<div id="listing-correspondencia" class="quarto-listing quarto-listing-container-table">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-correspondencia-sort" class="form-select" aria-label="Ordenar por" onchange="window['quarto-listings']['listing-correspondencia'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Ordenar por</option>
+       <option value="index" data-direction="asc">Por defecto</option>
+         <option value="listing-title-sort" data-direction="asc">
+          Título
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Fecha - Menos reciente
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Fecha - Más reciente
+        </option>
+         <option value="listing-description" data-direction="asc">
+          Descripción
+        </option>
+         <option value="listing-categories" data-direction="asc">
+          Categorías
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filtro">
+    </div>
+</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Título</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Fecha</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-description" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Descripción</a>
+</th>
+<th>
+<a class="sort" data-sort="listing-categories" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Categorías</a>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+<tr data-index="0" data-categories="Asamblea General Ordinaria N°001/2024" data-listing-date-sort="1729742400000" data-listing-title-sort="Lista de Asistencia">
+<td>
+<a href="https://drive.google.com/file/d/14bKn4u5kCOrnUHERfh3cBJJL7fmwKtwv/view?usp=drive_link" class="title listing-title">Lista de Asistencia</a>
+</td>
+<td>
+<span class="listing-date">24 oct 2024</span>
+</td>
+<td>
+<span class="listing-description">Participantes 10 de 18 miembros en total</span>
+</td>
+<td>
+<span class="listing-categories">Asamblea General Ordinaria N°001/2024</span>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="listing-no-matching d-none">
+No hay resultados
+</div>
+</div>
+
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -1009,7 +1318,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
 
-<div class="toc-actions"><ul><li><a href="https://github.com/sociest/sociest/edit/main/proyects/index.qmd" class="toc-action"><i class="bi bi-github"></i>Editar esta página</a></li><li><a href="https://github.com/sociest/sociest/blob/main/proyects/index.qmd" class="toc-action"><i class="bi empty"></i>Ver el código</a></li><li><a href="https://github.com/sociest/sociest/issues/new" class="toc-action"><i class="bi empty"></i>Informar de un problema</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
+<div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/sociest/sociest/edit/main/nosotros/normas/index.qmd" class="toc-action"><i class="bi bi-github"></i>Editar esta página</a></li><li><a href="https://github.com/sociest/sociest/blob/main/nosotros/normas/index.qmd" class="toc-action"><i class="bi empty"></i>Ver el código</a></li><li><a href="https://github.com/sociest/sociest/issues/new" class="toc-action"><i class="bi empty"></i>Informar de un problema</a></li></ul></div><div class="cookie-consent-footer"><a href="#" id="open_preferences_center">Cookie Preferences</a></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">

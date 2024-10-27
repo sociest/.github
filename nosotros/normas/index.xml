@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Sociedad Científica de Estudiantes de Estadística</title>
+<link>https://sociest.org/nosotros/normas/</link>
+<atom:link href="https://sociest.org/nosotros/normas/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<image>
+<url>https://sociest.org/images/logo.jpg</url>
+<title>Sociedad Científica de Estudiantes de Estadística</title>
+<link>https://sociest.org/nosotros/normas/</link>
+</image>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Thu, 24 Oct 2024 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Resolución N°001/2024</title>
+  <link>https://sociest.org/</link>
+  <description>Marco legal para realización de actividades virtuales vinculantes</description>
+  <category>Asamblea General Ordinaria N°001/2024</category>
+  <category>Normativa</category>
+  <guid>https://sociest.org/</guid>
+  <pubDate>Thu, 24 Oct 2024 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Resolución N°002/2024</title>
+  <link>https://sociest.org/</link>
+  <description>Establecimiento de comisiones de Investigación e Interacción Social</description>
+  <category>Asamblea General Ordinaria N°001/2024</category>
+  <category>Estructura</category>
+  <guid>https://sociest.org/</guid>
+  <pubDate>Thu, 24 Oct 2024 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Resolución N°003/2024</title>
+  <link>https://sociest.org/</link>
+  <description>Programa de Miembros Honorarios</description>
+  <category>Asamblea General Ordinaria N°001/2024</category>
+  <category>Normativa</category>
+  <guid>https://sociest.org/</guid>
+  <pubDate>Thu, 24 Oct 2024 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Resolución N°004/2024</title>
+  <link>https://sociest.org/</link>
+  <description>Creación de comités de relaciones y afiliaciones</description>
+  <category>Asamblea General Ordinaria N°001/2024</category>
+  <category>Estructura</category>
+  <guid>https://sociest.org/</guid>
+  <pubDate>Thu, 24 Oct 2024 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Resolución N°001/2024</title>
+  <link>https://sociest.org/</link>
+  <description>Creación de comités de trabajo...</description>
+  <category>Asamblea de fundación</category>
+  <guid>https://sociest.org/</guid>
+  <pubDate>Thu, 24 Oct 2024 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Estatuto Orgánico</title>
+  <link>https://sociest.org/</link>
+  <description>Base de la sociedad</description>
+  <category>Asamblea de fundación</category>
+  <guid>https://sociest.org/</guid>
+  <pubDate>Thu, 03 Oct 2024 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Reglamento Interno</title>
+  <link>https://sociest.org/</link>
+  <description>Procedimientos de la sociedad</description>
+  <category>Asamblea de fundación</category>
+  <guid>https://sociest.org/</guid>
+  <pubDate>Thu, 03 Oct 2024 04:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
