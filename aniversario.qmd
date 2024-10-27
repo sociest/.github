@@ -11,7 +11,7 @@ comments: false
 
 _Miss/Mister, Bufa, Noche de talentos_
 
-*[Inscripción Charlas](https://forms.gle/YDZCM5fZ87YDewPD9){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}*
+*[Inscripción Charlas](https://docs.google.com/forms/d/e/1FAIpQLSecwVMn7-jmn4qOegyYzw_pEop4ZDirNss0pLtKTO9NqzcIGA/viewform?usp=sf_link){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}*
 
 _R Studio, Quarto, Hablemos de la Sociedad Científica_
 
@@ -29,4 +29,4 @@ Dependiendo la charla se contará con la asistencia _Presencial, Virtual e Híbr
 3. **Híbrida**
     - Se publicará un formulario para que puedas autoregistrarte a través de una palabra clave de cada charla.
 
-*[Asistencia Charlas](https://forms.gle/YDZCM5fZ87YDewPD9){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}*
+*[Asistencia Charlas](https://docs.google.com/forms/d/e/1FAIpQLSeyhg7mD7IMvGcAajqMow0iv6s-MYIP6Ev2w309XTjVCbPpwQ/viewform?usp=sf_link){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}*
