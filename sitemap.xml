@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://sociest.org/blog.html</loc>
-    <lastmod>2024-10-27T04:30:16.670Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sociest.org/posts/welcome/index.html</loc>
-    <lastmod>2024-10-27T04:30:16.670Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sociest.org/proyects/index.html</loc>
-    <lastmod>2024-10-27T04:30:16.674Z</lastmod>
+    <loc>https://sociest.org/support.html</loc>
+    <lastmod>2024-10-27T03:31:17.279Z</lastmod>
   </url>
   <url>
     <loc>https://sociest.org/proyects/propurses.html</loc>
-    <lastmod>2024-10-27T04:30:16.674Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sociest.org/aniversario.html</loc>
-    <lastmod>2024-10-27T04:30:16.670Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sociest.org/organization/index.html</loc>
-    <lastmod>2024-10-27T04:30:16.670Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sociest.org/about/index.html</loc>
-    <lastmod>2024-10-27T04:30:16.670Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sociest.org/about/statute.html</loc>
-    <lastmod>2024-10-27T04:30:16.670Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sociest.org/support.html</loc>
-    <lastmod>2024-10-27T04:30:16.674Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sociest.org/about/history.html</loc>
-    <lastmod>2024-10-27T04:30:16.670Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sociest.org/organization/cargos.html</loc>
-    <lastmod>2024-10-27T04:30:16.670Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sociest.org/organization/members.html</loc>
-    <lastmod>2024-10-27T04:30:16.670Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sociest.org/resources/media.html</loc>
-    <lastmod>2024-10-27T04:30:16.674Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sociest.org/index.html</loc>
-    <lastmod>2024-10-27T04:30:16.670Z</lastmod>
+    <lastmod>2024-10-27T03:30:46.130Z</lastmod>
   </url>
   <url>
     <loc>https://sociest.org/proyects/about.html</loc>
-    <lastmod>2024-10-27T04:30:16.670Z</lastmod>
+    <lastmod>2024-10-27T03:30:32.544Z</lastmod>
   </url>
   <url>
     <loc>https://sociest.org/posts/post-with-code/index.html</loc>
-    <lastmod>2024-10-27T04:30:16.670Z</lastmod>
+    <lastmod>2024-10-15T04:54:11.443Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sociest.org/organization/index.html</loc>
+    <lastmod>2024-10-27T03:29:26.133Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sociest.org/index.html</loc>
+    <lastmod>2024-10-27T03:32:00.232Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sociest.org/blog.html</loc>
+    <lastmod>2024-10-18T21:26:52.219Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sociest.org/about/statute.html</loc>
+    <lastmod>2024-10-27T03:28:30.810Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sociest.org/about/history.html</loc>
+    <lastmod>2024-10-27T03:28:08.027Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sociest.org/about/index.html</loc>
+    <lastmod>2024-10-27T03:28:25.407Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sociest.org/aniversario.html</loc>
+    <lastmod>2024-10-27T04:24:20.876Z</lastmod>
   </url>
   <url>
     <loc>https://sociest.org/contact.html</loc>
-    <lastmod>2024-10-27T04:30:16.670Z</lastmod>
+    <lastmod>2024-10-27T03:31:10.438Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sociest.org/organization/cargos.html</loc>
+    <lastmod>2024-10-27T03:29:40.821Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sociest.org/organization/members.html</loc>
+    <lastmod>2024-10-27T03:29:30.903Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sociest.org/posts/welcome/index.html</loc>
+    <lastmod>2024-10-18T21:28:14.593Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sociest.org/proyects/index.html</loc>
+    <lastmod>2024-10-27T03:30:39.708Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sociest.org/resources/media.html</loc>
+    <lastmod>2024-10-27T03:30:56.195Z</lastmod>
   </url>
 </urlset>

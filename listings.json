@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/proyects/propurses.html",
+    "items": []
+  },
+  {
     "listing": "/blog.html",
     "items": [
       "/posts/post-with-code/index.html",
@@ -8,10 +12,6 @@
   },
   {
     "listing": "/proyects/index.html",
-    "items": []
-  },
-  {
-    "listing": "/proyects/propurses.html",
     "items": []
   }
 ]
