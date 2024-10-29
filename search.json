@@ -28,8 +28,8 @@
     "text": "This is a post with executable code.\n\nprint(\"hello world\")\n\nhello world\n\n\n\n\n\n Volver arriba"
   },
   {
-    "objectID": "organization/index.html",
-    "href": "organization/index.html",
+    "objectID": "organizacion/index.html",
+    "href": "organizacion/index.html",
     "title": "Sobre la Organización",
     "section": "",
     "text": "Nuestra sociedad busca ser lo más eficiente y flexible, en ello buscando la creación de comisiones y comites especializados que reunan a los miembros que tienen esos conocimientos e intereses.\n\nJerarquia Organizativa\n\n\n\n\n\nflowchart\n\n  subgraph Decisión y Deliberación\n    A[Asamblea General]\n  end\n\n  subgraph Arbitraje y Mediación\n    G[Tribunal]\n  end\n\n  subgraph Administrativo\n    B(Consejo Directivo y Ejecutivo)\n  end\n  \n  subgraph Operativo\n    C[Comisión]\n    E[Comité]\n    subgraph Operativ2o\n        F[Proyecto]\n    end\n  end\n\n  A --&gt; B\n  B --&gt; C\n  B --&gt; E\n  C --&gt; E\n  E --&gt; F\n  C --&gt; F\n  A --&gt; G\n  G --&gt; B\n\n\n\n\n\n\nNotese que. - La Asamblea General es el máximo organo de decisión - Los Tribunales son independientes y solo rinden cuentas a la Asamblea General - El Consejo Directivo y Ejecutivo, es el encargado de supervisar Comisiones y Comites según corresponda - Las Comisiones son coordinadores entre Comités según tematicas de trabajo - Los Comités son equipos de trabajo especializados en su tarea - Los Proyectos se asignan a Comités según su tematica y alcance\n\n\nJerarquia Normativa y Quórum\n\n\n\n\n\nflowchart\n  subgraph Mayoría reforzada \n    A[Estatuto Orgánico]\n  end\n\n  subgraph Mayoría calificada\n    B[Reglamento Interno]\n  end\n  \n  subgraph Mayoría absoluta\n    C[Derogaciones de Resoluciones de la Asamblea]\n  end\n\n  subgraph Mayoría simple\n    D[Resoluciones de la Asamblea]\n    E[Resoluciones de Consejo Ejecutivo y Directivo]\n    F[Tratados y Convenios con otras Organizaciones]\n  end\n  \n  A --&gt; B\n  B --&gt; C\n  C --&gt; D\n  D --&gt; E\n  E --&gt; F\n\n\n\n\n\n\n\n\n\n\n Volver arriba"
@@ -187,6 +187,34 @@
     "title": "Nosotros",
     "section": "",
     "text": "Misión\nNuestra misión es fomentar el desarrollo y la difusión del conocimiento estadístico a través de la investigación científica, la colaboración académica y la aplicación práctica. Buscamos contribuir al avance de la ciencia y la tecnología, beneficiando tanto a la Universidad Mayor de San Andrés como a la sociedad en su conjunto. Queremos crear un entorno en el que los estudiantes se sientan inspirados a explorar y aplicar sus conocimientos estadísticos para generar un impacto positivo en su comunidad.\n\n\nVisión\nNuestra visión es ser reconocidos como una sociedad científica líder en la promoción de la estadística como una herramienta esencial para el análisis y la solución de problemas en diversas áreas del conocimiento. Nos esforzamos por impulsar el desarrollo académico y profesional de nuestros miembros, brindándoles oportunidades para crecer y destacar en el ámbito de la estadística, al mismo tiempo que aportamos al progreso de nuestra sociedad.\n\n\nObjetivo General\nNuestro objetivo principal es promover el avance del conocimiento estadístico a través de la investigación científica, la formación de futuros profesionales y la divulgación activa. Queremos contribuir no solo al desarrollo académico de nuestros miembros, sino también al progreso social, buscando que la estadística se convierta en una herramienta clave para resolver los desafíos de nuestra comunidad y nuestra región.\n\n\nObjetivos Específicos\nComo sociedad científica, perseguimos los siguientes objetivos específicos:\n\nDesarrollo de competencias: Queremos preparar a nuestros miembros para abordar la actividad científica en diversos contextos, capacitándolos con herramientas sólidas y conocimientos actualizados.\nCursos y talleres: Ofrecemos espacios de formación donde se imparten cursos y talleres sobre paradigmas científicos y técnicas de investigación, esenciales para cualquier estudiante de estadística.\nDifusión científica: Nos enfocamos en fomentar la difusión del conocimiento y los resultados de nuestras investigaciones mediante publicaciones y redes de información que acerquen la ciencia a más personas.\nÉtica y liderazgo: Diseñamos cursos que no solo abordan aspectos técnicos, sino también éticos, sociales y de liderazgo, con el fin de formar investigadores comprometidos con su entorno.\nCongresos científicos: Organizamos y participamos en congresos estudiantiles, donde nuestros miembros pueden divulgar sus investigaciones y conectar con otros estudiantes y profesionales del campo.\nCreatividad e innovación: Estimulamos la creatividad y promovemos la generación de nuevos conocimientos que contribuyan al desarrollo económico y social de nuestra región, incentivando la innovación en cada uno de nuestros proyectos.\n\n\n\nPrincipios y Valores\nNuestra Sociedad se rige por los principios de independencia académica, ética profesional y neutralidad política. Nos comprometemos a que nuestras actividades y proyectos sean transparentes y basados en el respeto mutuo. Asimismo, queda prohibido el uso de la Sociedad con fines políticos partidarios, garantizando que nuestra misión se mantenga enfocada en la ciencia y la academia.\n\n\nNuestro Compromiso\nEn la Sociedad Científica de Estudiantes de Estadística, estamos comprometidos a crear un entorno en el que cada miembro pueda crecer, aprender y contribuir a un futuro más brillante para Bolivia. Creemos firmemente en el poder de la estadística como herramienta para enfrentar desafíos y generar un impacto positivo en nuestra sociedad.\n\n\n\n\n Volver arriba"
+  },
+  {
+    "objectID": "organizacion/cargos/index.html#comisiones",
+    "href": "organizacion/cargos/index.html#comisiones",
+    "title": "Cargos",
+    "section": "Comisiones",
+    "text": "Comisiones"
+  },
+  {
+    "objectID": "organizacion/cargos/index.html#comités",
+    "href": "organizacion/cargos/index.html#comités",
+    "title": "Cargos",
+    "section": "Comités",
+    "text": "Comités"
+  },
+  {
+    "objectID": "organizacion/miembros/index.html",
+    "href": "organizacion/miembros/index.html",
+    "title": "Miembros",
+    "section": "",
+    "text": "No hay resultados"
+  },
+  {
+    "objectID": "organizacion/miembros/index.html#activos",
+    "href": "organizacion/miembros/index.html#activos",
+    "title": "Miembros",
+    "section": "",
+    "text": "No hay resultados"
   },
   {
     "objectID": "posts/welcome/index.html",
