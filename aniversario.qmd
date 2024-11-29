@@ -39,7 +39,7 @@ aliases:
     - Charla: Estadística y cambio climático: Un campo de investigación abierto
     - ¿Es la teoría de juegos realmente divertida?
     - Introducción a Quarto
-    - Charla a confirmar tema
+    - Charla: Herramientas para la investigación 
     - Análisis estadístico en Excel
 
 [Inscripción Académicas](https://docs.google.com/forms/d/e/1FAIpQLSecwVMn7-jmn4qOegyYzw_pEop4ZDirNss0pLtKTO9NqzcIGA/viewform?usp=sf_link){.btn .btn-success .btn-lg}

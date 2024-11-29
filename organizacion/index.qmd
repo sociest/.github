@@ -4,7 +4,7 @@ toc: true
 reader-mode: true
 comments: false
 aliases:
-  - /organizacion
+  - /organization
 ---
 
 Nuestra sociedad busca ser lo más eficiente y flexible, en ello buscando la creación de comisiones y comites especializados que reunan a los miembros que tienen esos conocimientos e intereses.

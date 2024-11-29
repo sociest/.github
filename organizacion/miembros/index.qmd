@@ -1,0 +1,23 @@
+---
+title: Miembros
+subtitle: ""
+listing: 
+  - id: fundadores
+  - template: ..\..\assets\customlisting.ejs
+    contents: 
+    - directory.yml
+toc: true
+reader-mode: true
+page-layout: full
+title-block-banner: true
+comments: false
+aliases:
+  - /organization/members
+---
+
+## Activos
+
+### Fundadores
+
+:::{#fundadores}
+:::

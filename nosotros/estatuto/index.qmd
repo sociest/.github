@@ -6,7 +6,7 @@ repo-actions: none
 comments: false
 reader-mode: true
 aliases:
-  - /estatuto
+  - /about/statute
 ---
 
 **Referencia**

@@ -1,0 +1,23 @@
+---
+title: Cargos
+toc: true
+reader-mode: true
+comments: false
+aliases:
+  - /organization/team
+---
+
+## Consejo Directivo y Ejecutivo
+### Presidente
+
+### Vicepresidente
+
+### Secretario/a de Actas y Comunicación
+
+### Secretario/a de Prensa y Publicidad
+
+### Secretario/a Financiera
+
+## Comisiones
+
+## Comités

@@ -2,8 +2,8 @@
 <ul>
 <% for (const item of items) { %>
   <li>
-    <a href="<%- item.href %>"><%= item.name %></a><br/>
-    <%= item['custom-field'] %>
+    <a href="<%- item.file %>"><%= item.fullname %></a><br/>
+    <%= item['description'] %>
   </li>
 <% } %>
 </ul>

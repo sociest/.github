@@ -4,7 +4,7 @@ toc: true
 reader-mode: true
 comments: false
 aliases:
-  - /nosotros
+  - /about
 ---
 
 # Misión

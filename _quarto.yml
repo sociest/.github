@@ -13,7 +13,7 @@ website:
 
   image: "images/logo.jpg"
 
-  google-analytics: "G-ZEYEY0RVXJ"
+  google-analytics: "G-V340K2KZQN"
   cookie-consent: true
 
   comments:
@@ -46,16 +46,17 @@ website:
     left:
       - href: index.qmd
         text: Inicio
-      - text: "Quiénes Somos"
+      - text: "Nosotros"
         menu:
-          - about\index.qmd
-          - about\history.qmd
-          - about\statute.qmd
+          - nosotros\index.qmd
+          - nosotros\historia\index.qmd
+          - nosotros\estatuto\index.qmd
+          - nosotros\normativa\index.qmd
       - text: "Nuestra Organización"
         menu:
-          - organization\index.qmd
-          - organization\members.qmd 
-          - organization\cargos.qmd
+          - organizacion\index.qmd
+          - organizacion\miembros\index.qmd 
+          - organizacion\cargos\index.qmd
       - text: "Proyectos"
         menu:
           - proyects\index.qmd
@@ -90,12 +91,8 @@ website:
     right: 
       - icon: github
         href: https://github.com/sociest/
-      - icon: whatsapp
-        href: https://whatsapp.com/channel/0029VaoHzI69xVJcZxVuiv05
-      - icon: linkedin
-        href: https://www.linkedin.com/company/sociest  
-      - icon: facebook
-        href: https://www.facebook.com/sociest
+      - icon: envelope
+        href: mailto:contacto@sociest.org
       - text: "Kaggle"
         href: https://www.kaggle.com/organizations/sociest
       - text: "Hugging Face"
@@ -103,6 +100,9 @@ website:
 
 server:
   https: true
+
+preprocess:
+  - python organizacion\cargos.py
 
 format:
   html:
