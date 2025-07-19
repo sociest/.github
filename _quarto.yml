@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Sociedad Científica de Estudiantes de Estadística"
-  site-url: https://sociest.org
+  site-url: https://github.sociest.org
   favicon: images/logo.jpg
   description: ""
   bread-crumbs: true
