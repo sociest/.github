@@ -1,1 +1,1 @@
-Sitemap: https://sociest.org/sitemap.xml
+Sitemap: https://github.sociest.org/sitemap.xml
