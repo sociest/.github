@@ -20,5 +20,5 @@ Promover el avance del conocimiento estadístico mediante la investigación cien
 - Estimular actividades que fomenten la creatividad y la generación de conocimientos, promoviendo la innovación y el desarrollo económico y social de la región.
 
 
-[Unete!](https://forms.gle/YDZCM5fZ87YDewPD9)
+[Unete!](https://www.sociest.org/p/contacto.html)
 
